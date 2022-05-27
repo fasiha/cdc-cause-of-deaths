@@ -1,0 +1,1450 @@
+"Notes"	"Year"	"Year Code"	"Injury Mechanism & All Other Leading Causes"	"Injury Mechanism & All Other Leading Causes Code"	Deaths	Population	Crude Rate
+	"1999"	"1999"	"Cut/Pierce"	"GRINJ-001"	487	94835637	0.5
+	"1999"	"1999"	"Drowning"	"GRINJ-002"	1588	94835637	1.7
+	"1999"	"1999"	"Fall"	"GRINJ-003"	478	94835637	0.5
+	"1999"	"1999"	"Fire/Flame"	"GRINJ-004"	865	94835637	0.9
+	"1999"	"1999"	"Hot object/Substance"	"GRINJ-005"	14	94835637	Unreliable
+	"1999"	"1999"	"Firearm"	"GRINJ-006"	7276	94835637	7.7
+	"1999"	"1999"	"Machinery"	"GRINJ-007"	74	94835637	0.1
+	"1999"	"1999"	"Motor Vehicle Traffic"	"GRINJ-008"	12112	94835637	12.8
+	"1999"	"1999"	"Other Pedal cyclist"	"GRINJ-009"	51	94835637	0.1
+	"1999"	"1999"	"Other Pedestrian"	"GRINJ-010"	385	94835637	0.4
+	"1999"	"1999"	"Other land transport"	"GRINJ-011"	606	94835637	0.6
+	"1999"	"1999"	"Other transport"	"GRINJ-012"	238	94835637	0.3
+	"1999"	"1999"	"Natural/Environmental"	"GRINJ-013"	152	94835637	0.2
+	"1999"	"1999"	"Overexertion"	"GRINJ-014"	2	94835637	Unreliable
+	"1999"	"1999"	"Poisoning"	"GRINJ-015"	1608	94835637	1.7
+	"1999"	"1999"	"Struck by or against"	"GRINJ-016"	248	94835637	0.3
+	"1999"	"1999"	"Suffocation"	"GRINJ-017"	1735	94835637	1.8
+	"1999"	"1999"	"Other specified, classifiable Injury"	"GRINJ-018"	375	94835637	0.4
+	"1999"	"1999"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	308	94835637	0.3
+	"1999"	"1999"	"Unspecified Injury"	"GRINJ-020"	584	94835637	0.6
+	"1999"	"1999"	"Non-Injury: Intestinal infections"	"GR113 001-003"	20	94835637	0.0
+	"1999"	"1999"	"Non-Injury: Tuberculosis"	"GR113 005-006"	16	94835637	Unreliable
+	"1999"	"1999"	"Non-Injury: Meningococcal infection"	"GR113-009"	94	94835637	0.1
+	"1999"	"1999"	"Non-Injury: Septicemia"	"GR113-010"	285	94835637	0.3
+	"1999"	"1999"	"Non-Injury: Viral hepatitis"	"GR113-015"	20	94835637	0.0
+	"1999"	"1999"	"Non-Injury: Human immunodeficiency virus (HIV) disease"	"GR113-016"	288	94835637	0.3
+	"1999"	"1999"	"Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae"	"GR113-018"	250	94835637	0.3
+	"1999"	"1999"	"Non-Injury: Malignant neoplasms (Cancers)"	"GR113 020-043"	3154	94835637	3.3
+	"1999"	"1999"	"Non-Injury: In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior"	"GR113-044"	262	94835637	0.3
+	"1999"	"1999"	"Non-Injury: Anemias"	"GR113-045"	204	94835637	0.2
+	"1999"	"1999"	"Non-Injury: Diabetes mellitus"	"GR113-046"	195	94835637	0.2
+	"1999"	"1999"	"Non-Injury: Nutritional Deficiencies"	"GR113 048-049"	11	94835637	Unreliable
+	"1999"	"1999"	"Non-Injury: Meningitis"	"GR113-050"	113	94835637	0.1
+	"1999"	"1999"	"Non-Injury: Parkinsons disease"	"GR113-051"	2	94835637	Unreliable
+	"1999"	"1999"	"Non-Injury: Alzheimers disease"	"GR113-052"	1	94835637	Unreliable
+	"1999"	"1999"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	1529	94835637	1.6
+	"1999"	"1999"	"Non-Injury: Essential (primary) hypertension and hypertensive renal disease"	"GR113-069"	17	94835637	Unreliable
+	"1999"	"1999"	"Non-Injury: Cerebrovascular diseases, including stroke"	"GR113-070"	293	94835637	0.3
+	"1999"	"1999"	"Non-Injury: Atherosclerosis"	"GR113-071"	2	94835637	Unreliable
+	"1999"	"1999"	"Non-Injury: Other diseases of the circulatory system"	"GR113 073-074"	62	94835637	0.1
+	"1999"	"1999"	"Non-Injury: Other disorders of circulatory system"	"GR113-075"	33	94835637	0.0
+	"1999"	"1999"	"Non-Injury: Influenza & Pneumonia"	"GR113 077-078"	402	94835637	0.4
+	"1999"	"1999"	"Non-Injury: Other acute lower respiratory infections"	"GR113 079"	35	94835637	0.0
+	"1999"	"1999"	"Non-Injury: Chronic lower respiratory diseases"	"GR113 082"	402	94835637	0.4
+	"1999"	"1999"	"Non-Injury: Pneumoconioses and chemical effects"	"GR113-087"	4	94835637	Unreliable
+	"1999"	"1999"	"Non-Injury: Pneumonitis due to solids and liquids"	"GR113-088"	60	94835637	0.1
+	"1999"	"1999"	"Non-Injury: Other diseases of respiratory system"	"GR113-089"	282	94835637	0.3
+	"1999"	"1999"	"Non-Injury: Peptic ulcer"	"GR113-090"	4	94835637	Unreliable
+	"1999"	"1999"	"Non-Injury: Diseases of appendix"	"GR113-091"	33	94835637	0.0
+	"1999"	"1999"	"Non-Injury: Hernia"	"GR113-092"	8	94835637	Unreliable
+	"1999"	"1999"	"Non-Injury: Chronic liver disease and cirrhosis"	"GR113 093"	30	94835637	0.0
+	"1999"	"1999"	"Non-Injury: Cholelithiasis and other disorders of gallbladder"	"GR113-096"	11	94835637	Unreliable
+	"1999"	"1999"	"Non-Injury: Nephritis, nephrotic syndrome and nephrosis"	"GR113 097"	118	94835637	0.1
+	"1999"	"1999"	"Non-Injury: Infections of kidney"	"GR113-102"	6	94835637	Unreliable
+	"1999"	"1999"	"Non-Injury: Inflammatory diseases of female pelvic organs"	"GR113-104"	4	94835637	Unreliable
+	"1999"	"1999"	"Non-Injury: Pregnancy with abortive outcome"	"GR113-106"	8	94835637	Unreliable
+	"1999"	"1999"	"Non-Injury: Other complications of pregnancy, childbirth and the puerperium"	"GR113-107"	89	94835637	0.1
+	"1999"	"1999"	"Non-Injury: Certain conditions originating in the perinatal period"	"GR113-108"	151	94835637	0.2
+	"1999"	"1999"	"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities"	"GR113-109"	1411	94835637	1.5
+	"1999"	"1999"	"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"	"GR113-110"	982	94835637	1.0
+	"1999"	"1999"	"Non-Injury: All other diseases (Residual)"	"GR113-111"	3339	94835637	3.5
+	"1999"	"1999"	"Non-Injury: Complications of medical and surgical care"	"GR113-135"	84	94835637	0.1
+"Total"	"1999"	"1999"			43500	94835637	45.9
+	"2000"	"2000"	"Cut/Pierce"	"GRINJ-001"	482	95631618	0.5
+	"2000"	"2000"	"Drowning"	"GRINJ-002"	1604	95631618	1.7
+	"2000"	"2000"	"Fall"	"GRINJ-003"	430	95631618	0.4
+	"2000"	"2000"	"Fire/Flame"	"GRINJ-004"	842	95631618	0.9
+	"2000"	"2000"	"Hot object/Substance"	"GRINJ-005"	12	95631618	Unreliable
+	"2000"	"2000"	"Firearm"	"GRINJ-006"	6998	95631618	7.3
+	"2000"	"2000"	"Machinery"	"GRINJ-007"	80	95631618	0.1
+	"2000"	"2000"	"Motor Vehicle Traffic"	"GRINJ-008"	12533	95631618	13.1
+	"2000"	"2000"	"Other Pedal cyclist"	"GRINJ-009"	58	95631618	0.1
+	"2000"	"2000"	"Other Pedestrian"	"GRINJ-010"	341	95631618	0.4
+	"2000"	"2000"	"Other land transport"	"GRINJ-011"	489	95631618	0.5
+	"2000"	"2000"	"Other transport"	"GRINJ-012"	239	95631618	0.2
+	"2000"	"2000"	"Natural/Environmental"	"GRINJ-013"	132	95631618	0.1
+	"2000"	"2000"	"Overexertion"	"GRINJ-014"	2	95631618	Unreliable
+	"2000"	"2000"	"Poisoning"	"GRINJ-015"	1783	95631618	1.9
+	"2000"	"2000"	"Struck by or against"	"GRINJ-016"	227	95631618	0.2
+	"2000"	"2000"	"Suffocation"	"GRINJ-017"	1935	95631618	2.0
+	"2000"	"2000"	"Other specified, classifiable Injury"	"GRINJ-018"	362	95631618	0.4
+	"2000"	"2000"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	306	95631618	0.3
+	"2000"	"2000"	"Unspecified Injury"	"GRINJ-020"	575	95631618	0.6
+	"2000"	"2000"	"Non-Injury: Intestinal infections"	"GR113 001-003"	14	95631618	Unreliable
+	"2000"	"2000"	"Non-Injury: Tuberculosis"	"GR113 005-006"	18	95631618	Unreliable
+	"2000"	"2000"	"Non-Injury: Meningococcal infection"	"GR113-009"	93	95631618	0.1
+	"2000"	"2000"	"Non-Injury: Septicemia"	"GR113-010"	262	95631618	0.3
+	"2000"	"2000"	"Non-Injury: Viral hepatitis"	"GR113-015"	21	95631618	0.0
+	"2000"	"2000"	"Non-Injury: Human immunodeficiency virus (HIV) disease"	"GR113-016"	239	95631618	0.2
+	"2000"	"2000"	"Non-Injury: Malaria"	"GR113-017"	1	95631618	Unreliable
+	"2000"	"2000"	"Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae"	"GR113-018"	234	95631618	0.2
+	"2000"	"2000"	"Non-Injury: Malignant neoplasms (Cancers)"	"GR113 020-043"	3147	95631618	3.3
+	"2000"	"2000"	"Non-Injury: In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior"	"GR113-044"	247	95631618	0.3
+	"2000"	"2000"	"Non-Injury: Anemias"	"GR113-045"	172	95631618	0.2
+	"2000"	"2000"	"Non-Injury: Diabetes mellitus"	"GR113-046"	194	95631618	0.2
+	"2000"	"2000"	"Non-Injury: Nutritional Deficiencies"	"GR113 048-049"	17	95631618	Unreliable
+	"2000"	"2000"	"Non-Injury: Meningitis"	"GR113-050"	81	95631618	0.1
+	"2000"	"2000"	"Non-Injury: Parkinsons disease"	"GR113-051"	1	95631618	Unreliable
+	"2000"	"2000"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	1483	95631618	1.6
+	"2000"	"2000"	"Non-Injury: Essential (primary) hypertension and hypertensive renal disease"	"GR113-069"	22	95631618	0.0
+	"2000"	"2000"	"Non-Injury: Cerebrovascular diseases, including stroke"	"GR113-070"	322	95631618	0.3
+	"2000"	"2000"	"Non-Injury: Atherosclerosis"	"GR113-071"	3	95631618	Unreliable
+	"2000"	"2000"	"Non-Injury: Other diseases of the circulatory system"	"GR113 073-074"	75	95631618	0.1
+	"2000"	"2000"	"Non-Injury: Other disorders of circulatory system"	"GR113-075"	53	95631618	0.1
+	"2000"	"2000"	"Non-Injury: Influenza & Pneumonia"	"GR113 077-078"	379	95631618	0.4
+	"2000"	"2000"	"Non-Injury: Other acute lower respiratory infections"	"GR113 079"	23	95631618	0.0
+	"2000"	"2000"	"Non-Injury: Chronic lower respiratory diseases"	"GR113 082"	380	95631618	0.4
+	"2000"	"2000"	"Non-Injury: Pneumonitis due to solids and liquids"	"GR113-088"	61	95631618	0.1
+	"2000"	"2000"	"Non-Injury: Other diseases of respiratory system"	"GR113-089"	292	95631618	0.3
+	"2000"	"2000"	"Non-Injury: Peptic ulcer"	"GR113-090"	9	95631618	Unreliable
+	"2000"	"2000"	"Non-Injury: Diseases of appendix"	"GR113-091"	31	95631618	0.0
+	"2000"	"2000"	"Non-Injury: Hernia"	"GR113-092"	12	95631618	Unreliable
+	"2000"	"2000"	"Non-Injury: Chronic liver disease and cirrhosis"	"GR113 093"	42	95631618	0.0
+	"2000"	"2000"	"Non-Injury: Cholelithiasis and other disorders of gallbladder"	"GR113-096"	11	95631618	Unreliable
+	"2000"	"2000"	"Non-Injury: Nephritis, nephrotic syndrome and nephrosis"	"GR113 097"	127	95631618	0.1
+	"2000"	"2000"	"Non-Injury: Infections of kidney"	"GR113-102"	5	95631618	Unreliable
+	"2000"	"2000"	"Non-Injury: Inflammatory diseases of female pelvic organs"	"GR113-104"	3	95631618	Unreliable
+	"2000"	"2000"	"Non-Injury: Pregnancy with abortive outcome"	"GR113-106"	6	95631618	Unreliable
+	"2000"	"2000"	"Non-Injury: Other complications of pregnancy, childbirth and the puerperium"	"GR113-107"	89	95631618	0.1
+	"2000"	"2000"	"Non-Injury: Certain conditions originating in the perinatal period"	"GR113-108"	135	95631618	0.1
+	"2000"	"2000"	"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities"	"GR113-109"	1335	95631618	1.4
+	"2000"	"2000"	"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"	"GR113-110"	1293	95631618	1.4
+	"2000"	"2000"	"Non-Injury: All other diseases (Residual)"	"GR113-111"	3252	95631618	3.4
+	"2000"	"2000"	"Non-Injury: Complications of medical and surgical care"	"GR113-135"	85	95631618	0.1
+"Total"	"2000"	"2000"			43699	95631618	45.7
+	"2001"	"2001"	"Cut/Pierce"	"GRINJ-001"	552	96651169	0.6
+	"2001"	"2001"	"Drowning"	"GRINJ-002"	1500	96651169	1.6
+	"2001"	"2001"	"Fall"	"GRINJ-003"	457	96651169	0.5
+	"2001"	"2001"	"Fire/Flame"	"GRINJ-004"	757	96651169	0.8
+	"2001"	"2001"	"Hot object/Substance"	"GRINJ-005"	14	96651169	Unreliable
+	"2001"	"2001"	"Firearm"	"GRINJ-006"	7090	96651169	7.3
+	"2001"	"2001"	"Machinery"	"GRINJ-007"	74	96651169	0.1
+	"2001"	"2001"	"Motor Vehicle Traffic"	"GRINJ-008"	12615	96651169	13.1
+	"2001"	"2001"	"Other Pedal cyclist"	"GRINJ-009"	50	96651169	0.1
+	"2001"	"2001"	"Other Pedestrian"	"GRINJ-010"	284	96651169	0.3
+	"2001"	"2001"	"Other land transport"	"GRINJ-011"	448	96651169	0.5
+	"2001"	"2001"	"Other transport"	"GRINJ-012"	363	96651169	0.4
+	"2001"	"2001"	"Natural/Environmental"	"GRINJ-013"	127	96651169	0.1
+	"2001"	"2001"	"Overexertion"	"GRINJ-014"	1	96651169	Unreliable
+	"2001"	"2001"	"Poisoning"	"GRINJ-015"	2062	96651169	2.1
+	"2001"	"2001"	"Struck by or against"	"GRINJ-016"	202	96651169	0.2
+	"2001"	"2001"	"Suffocation"	"GRINJ-017"	1990	96651169	2.1
+	"2001"	"2001"	"Other specified, classifiable Injury"	"GRINJ-018"	374	96651169	0.4
+	"2001"	"2001"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	267	96651169	0.3
+	"2001"	"2001"	"Unspecified Injury"	"GRINJ-020"	618	96651169	0.6
+	"2001"	"2001"	"Non-Injury: Intestinal infections"	"GR113 001-003"	24	96651169	0.0
+	"2001"	"2001"	"Non-Injury: Tuberculosis"	"GR113 005-006"	13	96651169	Unreliable
+	"2001"	"2001"	"Non-Injury: Whooping cough"	"GR113-007"	1	96651169	Unreliable
+	"2001"	"2001"	"Non-Injury: Scarlet fever and erysipelas"	"GR113-008"	1	96651169	Unreliable
+	"2001"	"2001"	"Non-Injury: Meningococcal infection"	"GR113-009"	100	96651169	0.1
+	"2001"	"2001"	"Non-Injury: Septicemia"	"GR113-010"	310	96651169	0.3
+	"2001"	"2001"	"Non-Injury: Syphilis"	"GR113-011"	1	96651169	Unreliable
+	"2001"	"2001"	"Non-Injury: Viral hepatitis"	"GR113-015"	23	96651169	0.0
+	"2001"	"2001"	"Non-Injury: Human immunodeficiency virus (HIV) disease"	"GR113-016"	276	96651169	0.3
+	"2001"	"2001"	"Non-Injury: Malaria"	"GR113-017"	1	96651169	Unreliable
+	"2001"	"2001"	"Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae"	"GR113-018"	214	96651169	0.2
+	"2001"	"2001"	"Non-Injury: Malignant neoplasms (Cancers)"	"GR113 020-043"	3132	96651169	3.2
+	"2001"	"2001"	"Non-Injury: In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior"	"GR113-044"	265	96651169	0.3
+	"2001"	"2001"	"Non-Injury: Anemias"	"GR113-045"	186	96651169	0.2
+	"2001"	"2001"	"Non-Injury: Diabetes mellitus"	"GR113-046"	196	96651169	0.2
+	"2001"	"2001"	"Non-Injury: Nutritional Deficiencies"	"GR113 048-049"	16	96651169	Unreliable
+	"2001"	"2001"	"Non-Injury: Meningitis"	"GR113-050"	90	96651169	0.1
+	"2001"	"2001"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	1496	96651169	1.5
+	"2001"	"2001"	"Non-Injury: Essential (primary) hypertension and hypertensive renal disease"	"GR113-069"	25	96651169	0.0
+	"2001"	"2001"	"Non-Injury: Cerebrovascular diseases, including stroke"	"GR113-070"	330	96651169	0.3
+	"2001"	"2001"	"Non-Injury: Atherosclerosis"	"GR113-071"	3	96651169	Unreliable
+	"2001"	"2001"	"Non-Injury: Other diseases of the circulatory system"	"GR113 073-074"	76	96651169	0.1
+	"2001"	"2001"	"Non-Injury: Other disorders of circulatory system"	"GR113-075"	43	96651169	0.0
+	"2001"	"2001"	"Non-Injury: Influenza & Pneumonia"	"GR113 077-078"	385	96651169	0.4
+	"2001"	"2001"	"Non-Injury: Other acute lower respiratory infections"	"GR113 079"	22	96651169	0.0
+	"2001"	"2001"	"Non-Injury: Chronic lower respiratory diseases"	"GR113 082"	318	96651169	0.3
+	"2001"	"2001"	"Non-Injury: Pneumoconioses and chemical effects"	"GR113-087"	1	96651169	Unreliable
+	"2001"	"2001"	"Non-Injury: Pneumonitis due to solids and liquids"	"GR113-088"	63	96651169	0.1
+	"2001"	"2001"	"Non-Injury: Other diseases of respiratory system"	"GR113-089"	312	96651169	0.3
+	"2001"	"2001"	"Non-Injury: Peptic ulcer"	"GR113-090"	12	96651169	Unreliable
+	"2001"	"2001"	"Non-Injury: Diseases of appendix"	"GR113-091"	29	96651169	0.0
+	"2001"	"2001"	"Non-Injury: Hernia"	"GR113-092"	8	96651169	Unreliable
+	"2001"	"2001"	"Non-Injury: Chronic liver disease and cirrhosis"	"GR113 093"	28	96651169	0.0
+	"2001"	"2001"	"Non-Injury: Cholelithiasis and other disorders of gallbladder"	"GR113-096"	8	96651169	Unreliable
+	"2001"	"2001"	"Non-Injury: Nephritis, nephrotic syndrome and nephrosis"	"GR113 097"	126	96651169	0.1
+	"2001"	"2001"	"Non-Injury: Infections of kidney"	"GR113-102"	9	96651169	Unreliable
+	"2001"	"2001"	"Non-Injury: Inflammatory diseases of female pelvic organs"	"GR113-104"	2	96651169	Unreliable
+	"2001"	"2001"	"Non-Injury: Pregnancy with abortive outcome"	"GR113-106"	15	96651169	Unreliable
+	"2001"	"2001"	"Non-Injury: Other complications of pregnancy, childbirth and the puerperium"	"GR113-107"	98	96651169	0.1
+	"2001"	"2001"	"Non-Injury: Certain conditions originating in the perinatal period"	"GR113-108"	125	96651169	0.1
+	"2001"	"2001"	"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities"	"GR113-109"	1438	96651169	1.5
+	"2001"	"2001"	"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"	"GR113-110"	1402	96651169	1.5
+	"2001"	"2001"	"Non-Injury: All other diseases (Residual)"	"GR113-111"	3305	96651169	3.4
+	"2001"	"2001"	"Non-Injury: Complications of medical and surgical care"	"GR113-135"	81	96651169	0.1
+"Total"	"2001"	"2001"			44454	96651169	46.0
+	"2002"	"2002"	"Cut/Pierce"	"GRINJ-001"	519	97465704	0.5
+	"2002"	"2002"	"Drowning"	"GRINJ-002"	1520	97465704	1.6
+	"2002"	"2002"	"Fall"	"GRINJ-003"	460	97465704	0.5
+	"2002"	"2002"	"Fire/Flame"	"GRINJ-004"	761	97465704	0.8
+	"2002"	"2002"	"Hot object/Substance"	"GRINJ-005"	11	97465704	Unreliable
+	"2002"	"2002"	"Firearm"	"GRINJ-006"	7189	97465704	7.4
+	"2002"	"2002"	"Machinery"	"GRINJ-007"	64	97465704	0.1
+	"2002"	"2002"	"Motor Vehicle Traffic"	"GRINJ-008"	13262	97465704	13.6
+	"2002"	"2002"	"Other Pedal cyclist"	"GRINJ-009"	42	97465704	0.0
+	"2002"	"2002"	"Other Pedestrian"	"GRINJ-010"	290	97465704	0.3
+	"2002"	"2002"	"Other land transport"	"GRINJ-011"	383	97465704	0.4
+	"2002"	"2002"	"Other transport"	"GRINJ-012"	198	97465704	0.2
+	"2002"	"2002"	"Natural/Environmental"	"GRINJ-013"	104	97465704	0.1
+	"2002"	"2002"	"Poisoning"	"GRINJ-015"	2428	97465704	2.5
+	"2002"	"2002"	"Struck by or against"	"GRINJ-016"	206	97465704	0.2
+	"2002"	"2002"	"Suffocation"	"GRINJ-017"	2056	97465704	2.1
+	"2002"	"2002"	"Other specified, classifiable Injury"	"GRINJ-018"	405	97465704	0.4
+	"2002"	"2002"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	231	97465704	0.2
+	"2002"	"2002"	"Unspecified Injury"	"GRINJ-020"	620	97465704	0.6
+	"2002"	"2002"	"Non-Injury: Intestinal infections"	"GR113 001-003"	19	97465704	Unreliable
+	"2002"	"2002"	"Non-Injury: Tuberculosis"	"GR113 005-006"	9	97465704	Unreliable
+	"2002"	"2002"	"Non-Injury: Meningococcal infection"	"GR113-009"	65	97465704	0.1
+	"2002"	"2002"	"Non-Injury: Septicemia"	"GR113-010"	292	97465704	0.3
+	"2002"	"2002"	"Non-Injury: Syphilis"	"GR113-011"	1	97465704	Unreliable
+	"2002"	"2002"	"Non-Injury: Arthropod-borne viral encephalitis"	"GR113-013"	1	97465704	Unreliable
+	"2002"	"2002"	"Non-Injury: Viral hepatitis"	"GR113-015"	28	97465704	0.0
+	"2002"	"2002"	"Non-Injury: Human immunodeficiency virus (HIV) disease"	"GR113-016"	208	97465704	0.2
+	"2002"	"2002"	"Non-Injury: Malaria"	"GR113-017"	1	97465704	Unreliable
+	"2002"	"2002"	"Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae"	"GR113-018"	242	97465704	0.2
+	"2002"	"2002"	"Non-Injury: Malignant neoplasms (Cancers)"	"GR113 020-043"	3204	97465704	3.3
+	"2002"	"2002"	"Non-Injury: In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior"	"GR113-044"	236	97465704	0.2
+	"2002"	"2002"	"Non-Injury: Anemias"	"GR113-045"	185	97465704	0.2
+	"2002"	"2002"	"Non-Injury: Diabetes mellitus"	"GR113-046"	208	97465704	0.2
+	"2002"	"2002"	"Non-Injury: Nutritional Deficiencies"	"GR113 048-049"	9	97465704	Unreliable
+	"2002"	"2002"	"Non-Injury: Meningitis"	"GR113-050"	76	97465704	0.1
+	"2002"	"2002"	"Non-Injury: Alzheimers disease"	"GR113-052"	1	97465704	Unreliable
+	"2002"	"2002"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	1442	97465704	1.5
+	"2002"	"2002"	"Non-Injury: Essential (primary) hypertension and hypertensive renal disease"	"GR113-069"	23	97465704	0.0
+	"2002"	"2002"	"Non-Injury: Cerebrovascular diseases, including stroke"	"GR113-070"	315	97465704	0.3
+	"2002"	"2002"	"Non-Injury: Atherosclerosis"	"GR113-071"	3	97465704	Unreliable
+	"2002"	"2002"	"Non-Injury: Other diseases of the circulatory system"	"GR113 073-074"	81	97465704	0.1
+	"2002"	"2002"	"Non-Injury: Other disorders of circulatory system"	"GR113-075"	41	97465704	0.0
+	"2002"	"2002"	"Non-Injury: Influenza & Pneumonia"	"GR113 077-078"	368	97465704	0.4
+	"2002"	"2002"	"Non-Injury: Other acute lower respiratory infections"	"GR113 079"	34	97465704	0.0
+	"2002"	"2002"	"Non-Injury: Chronic lower respiratory diseases"	"GR113 082"	393	97465704	0.4
+	"2002"	"2002"	"Non-Injury: Pneumonitis due to solids and liquids"	"GR113-088"	67	97465704	0.1
+	"2002"	"2002"	"Non-Injury: Other diseases of respiratory system"	"GR113-089"	295	97465704	0.3
+	"2002"	"2002"	"Non-Injury: Peptic ulcer"	"GR113-090"	2	97465704	Unreliable
+	"2002"	"2002"	"Non-Injury: Diseases of appendix"	"GR113-091"	19	97465704	Unreliable
+	"2002"	"2002"	"Non-Injury: Hernia"	"GR113-092"	15	97465704	Unreliable
+	"2002"	"2002"	"Non-Injury: Chronic liver disease and cirrhosis"	"GR113 093"	40	97465704	0.0
+	"2002"	"2002"	"Non-Injury: Cholelithiasis and other disorders of gallbladder"	"GR113-096"	9	97465704	Unreliable
+	"2002"	"2002"	"Non-Injury: Nephritis, nephrotic syndrome and nephrosis"	"GR113 097"	119	97465704	0.1
+	"2002"	"2002"	"Non-Injury: Infections of kidney"	"GR113-102"	8	97465704	Unreliable
+	"2002"	"2002"	"Non-Injury: Inflammatory diseases of female pelvic organs"	"GR113-104"	2	97465704	Unreliable
+	"2002"	"2002"	"Non-Injury: Pregnancy with abortive outcome"	"GR113-106"	5	97465704	Unreliable
+	"2002"	"2002"	"Non-Injury: Other complications of pregnancy, childbirth and the puerperium"	"GR113-107"	85	97465704	0.1
+	"2002"	"2002"	"Non-Injury: Certain conditions originating in the perinatal period"	"GR113-108"	117	97465704	0.1
+	"2002"	"2002"	"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities"	"GR113-109"	1439	97465704	1.5
+	"2002"	"2002"	"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"	"GR113-110"	1127	97465704	1.2
+	"2002"	"2002"	"Non-Injury: All other diseases (Residual)"	"GR113-111"	3382	97465704	3.5
+	"2002"	"2002"	"Non-Injury: Complications of medical and surgical care"	"GR113-135"	89	97465704	0.1
+"Total"	"2002"	"2002"			45054	97465704	46.2
+	"2003"	"2003"	"Cut/Pierce"	"GRINJ-001"	556	98041633	0.6
+	"2003"	"2003"	"Drowning"	"GRINJ-002"	1377	98041633	1.4
+	"2003"	"2003"	"Fall"	"GRINJ-003"	453	98041633	0.5
+	"2003"	"2003"	"Fire/Flame"	"GRINJ-004"	735	98041633	0.7
+	"2003"	"2003"	"Hot object/Substance"	"GRINJ-005"	8	98041633	Unreliable
+	"2003"	"2003"	"Firearm"	"GRINJ-006"	7218	98041633	7.4
+	"2003"	"2003"	"Machinery"	"GRINJ-007"	77	98041633	0.1
+	"2003"	"2003"	"Motor Vehicle Traffic"	"GRINJ-008"	12746	98041633	13.0
+	"2003"	"2003"	"Other Pedal cyclist"	"GRINJ-009"	37	98041633	0.0
+	"2003"	"2003"	"Other Pedestrian"	"GRINJ-010"	288	98041633	0.3
+	"2003"	"2003"	"Other land transport"	"GRINJ-011"	537	98041633	0.5
+	"2003"	"2003"	"Other transport"	"GRINJ-012"	212	98041633	0.2
+	"2003"	"2003"	"Natural/Environmental"	"GRINJ-013"	138	98041633	0.1
+	"2003"	"2003"	"Overexertion"	"GRINJ-014"	2	98041633	Unreliable
+	"2003"	"2003"	"Poisoning"	"GRINJ-015"	2860	98041633	2.9
+	"2003"	"2003"	"Struck by or against"	"GRINJ-016"	174	98041633	0.2
+	"2003"	"2003"	"Suffocation"	"GRINJ-017"	2066	98041633	2.1
+	"2003"	"2003"	"Other specified, classifiable Injury"	"GRINJ-018"	353	98041633	0.4
+	"2003"	"2003"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	199	98041633	0.2
+	"2003"	"2003"	"Unspecified Injury"	"GRINJ-020"	622	98041633	0.6
+	"2003"	"2003"	"Non-Injury: Intestinal infections"	"GR113 001-003"	16	98041633	Unreliable
+	"2003"	"2003"	"Non-Injury: Tuberculosis"	"GR113 005-006"	13	98041633	Unreliable
+	"2003"	"2003"	"Non-Injury: Whooping cough"	"GR113-007"	1	98041633	Unreliable
+	"2003"	"2003"	"Non-Injury: Meningococcal infection"	"GR113-009"	68	98041633	0.1
+	"2003"	"2003"	"Non-Injury: Septicemia"	"GR113-010"	316	98041633	0.3
+	"2003"	"2003"	"Non-Injury: Arthropod-borne viral encephalitis"	"GR113-013"	1	98041633	Unreliable
+	"2003"	"2003"	"Non-Injury: Measles"	"GR113-014"	1	98041633	Unreliable
+	"2003"	"2003"	"Non-Injury: Viral hepatitis"	"GR113-015"	14	98041633	Unreliable
+	"2003"	"2003"	"Non-Injury: Human immunodeficiency virus (HIV) disease"	"GR113-016"	216	98041633	0.2
+	"2003"	"2003"	"Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae"	"GR113-018"	224	98041633	0.2
+	"2003"	"2003"	"Non-Injury: Malignant neoplasms (Cancers)"	"GR113 020-043"	3119	98041633	3.2
+	"2003"	"2003"	"Non-Injury: In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior"	"GR113-044"	226	98041633	0.2
+	"2003"	"2003"	"Non-Injury: Anemias"	"GR113-045"	176	98041633	0.2
+	"2003"	"2003"	"Non-Injury: Diabetes mellitus"	"GR113-046"	199	98041633	0.2
+	"2003"	"2003"	"Non-Injury: Nutritional Deficiencies"	"GR113 048-049"	11	98041633	Unreliable
+	"2003"	"2003"	"Non-Injury: Meningitis"	"GR113-050"	78	98041633	0.1
+	"2003"	"2003"	"Non-Injury: Parkinsons disease"	"GR113-051"	1	98041633	Unreliable
+	"2003"	"2003"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	1583	98041633	1.6
+	"2003"	"2003"	"Non-Injury: Essential (primary) hypertension and hypertensive renal disease"	"GR113-069"	26	98041633	0.0
+	"2003"	"2003"	"Non-Injury: Cerebrovascular diseases, including stroke"	"GR113-070"	336	98041633	0.3
+	"2003"	"2003"	"Non-Injury: Atherosclerosis"	"GR113-071"	3	98041633	Unreliable
+	"2003"	"2003"	"Non-Injury: Other diseases of the circulatory system"	"GR113 073-074"	80	98041633	0.1
+	"2003"	"2003"	"Non-Injury: Other disorders of circulatory system"	"GR113-075"	58	98041633	0.1
+	"2003"	"2003"	"Non-Injury: Influenza & Pneumonia"	"GR113 077-078"	534	98041633	0.5
+	"2003"	"2003"	"Non-Injury: Other acute lower respiratory infections"	"GR113 079"	40	98041633	0.0
+	"2003"	"2003"	"Non-Injury: Chronic lower respiratory diseases"	"GR113 082"	364	98041633	0.4
+	"2003"	"2003"	"Non-Injury: Pneumoconioses and chemical effects"	"GR113-087"	1	98041633	Unreliable
+	"2003"	"2003"	"Non-Injury: Pneumonitis due to solids and liquids"	"GR113-088"	72	98041633	0.1
+	"2003"	"2003"	"Non-Injury: Other diseases of respiratory system"	"GR113-089"	282	98041633	0.3
+	"2003"	"2003"	"Non-Injury: Peptic ulcer"	"GR113-090"	11	98041633	Unreliable
+	"2003"	"2003"	"Non-Injury: Diseases of appendix"	"GR113-091"	27	98041633	0.0
+	"2003"	"2003"	"Non-Injury: Hernia"	"GR113-092"	15	98041633	Unreliable
+	"2003"	"2003"	"Non-Injury: Chronic liver disease and cirrhosis"	"GR113 093"	16	98041633	Unreliable
+	"2003"	"2003"	"Non-Injury: Cholelithiasis and other disorders of gallbladder"	"GR113-096"	5	98041633	Unreliable
+	"2003"	"2003"	"Non-Injury: Nephritis, nephrotic syndrome and nephrosis"	"GR113 097"	131	98041633	0.1
+	"2003"	"2003"	"Non-Injury: Infections of kidney"	"GR113-102"	13	98041633	Unreliable
+	"2003"	"2003"	"Non-Injury: Inflammatory diseases of female pelvic organs"	"GR113-104"	7	98041633	Unreliable
+	"2003"	"2003"	"Non-Injury: Pregnancy with abortive outcome"	"GR113-106"	11	98041633	Unreliable
+	"2003"	"2003"	"Non-Injury: Other complications of pregnancy, childbirth and the puerperium"	"GR113-107"	106	98041633	0.1
+	"2003"	"2003"	"Non-Injury: Certain conditions originating in the perinatal period"	"GR113-108"	114	98041633	0.1
+	"2003"	"2003"	"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities"	"GR113-109"	1378	98041633	1.4
+	"2003"	"2003"	"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"	"GR113-110"	1271	98041633	1.3
+	"2003"	"2003"	"Non-Injury: All other diseases (Residual)"	"GR113-111"	3585	98041633	3.7
+	"2003"	"2003"	"Non-Injury: Complications of medical and surgical care"	"GR113-135"	80	98041633	0.1
+"Total"	"2003"	"2003"			45487	98041633	46.4
+	"2004"	"2004"	"Cut/Pierce"	"GRINJ-001"	589	98585656	0.6
+	"2004"	"2004"	"Drowning"	"GRINJ-002"	1353	98585656	1.4
+	"2004"	"2004"	"Fall"	"GRINJ-003"	451	98585656	0.5
+	"2004"	"2004"	"Fire/Flame"	"GRINJ-004"	751	98585656	0.8
+	"2004"	"2004"	"Hot object/Substance"	"GRINJ-005"	7	98585656	Unreliable
+	"2004"	"2004"	"Firearm"	"GRINJ-006"	6891	98585656	7.0
+	"2004"	"2004"	"Machinery"	"GRINJ-007"	94	98585656	0.1
+	"2004"	"2004"	"Motor Vehicle Traffic"	"GRINJ-008"	12783	98585656	13.0
+	"2004"	"2004"	"Other Pedal cyclist"	"GRINJ-009"	45	98585656	0.0
+	"2004"	"2004"	"Other Pedestrian"	"GRINJ-010"	288	98585656	0.3
+	"2004"	"2004"	"Other land transport"	"GRINJ-011"	479	98585656	0.5
+	"2004"	"2004"	"Other transport"	"GRINJ-012"	179	98585656	0.2
+	"2004"	"2004"	"Natural/Environmental"	"GRINJ-013"	141	98585656	0.1
+	"2004"	"2004"	"Poisoning"	"GRINJ-015"	3107	98585656	3.2
+	"2004"	"2004"	"Struck by or against"	"GRINJ-016"	147	98585656	0.1
+	"2004"	"2004"	"Suffocation"	"GRINJ-017"	2313	98585656	2.3
+	"2004"	"2004"	"Other specified, classifiable Injury"	"GRINJ-018"	369	98585656	0.4
+	"2004"	"2004"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	207	98585656	0.2
+	"2004"	"2004"	"Unspecified Injury"	"GRINJ-020"	650	98585656	0.7
+	"2004"	"2004"	"Non-Injury: Intestinal infections"	"GR113 001-003"	20	98585656	0.0
+	"2004"	"2004"	"Non-Injury: Tuberculosis"	"GR113 005-006"	10	98585656	Unreliable
+	"2004"	"2004"	"Non-Injury: Whooping cough"	"GR113-007"	1	98585656	Unreliable
+	"2004"	"2004"	"Non-Injury: Meningococcal infection"	"GR113-009"	62	98585656	0.1
+	"2004"	"2004"	"Non-Injury: Septicemia"	"GR113-010"	285	98585656	0.3
+	"2004"	"2004"	"Non-Injury: Viral hepatitis"	"GR113-015"	13	98585656	Unreliable
+	"2004"	"2004"	"Non-Injury: Human immunodeficiency virus (HIV) disease"	"GR113-016"	220	98585656	0.2
+	"2004"	"2004"	"Non-Injury: Malaria"	"GR113-017"	1	98585656	Unreliable
+	"2004"	"2004"	"Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae"	"GR113-018"	207	98585656	0.2
+	"2004"	"2004"	"Non-Injury: Malignant neoplasms (Cancers)"	"GR113 020-043"	3127	98585656	3.2
+	"2004"	"2004"	"Non-Injury: In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior"	"GR113-044"	247	98585656	0.3
+	"2004"	"2004"	"Non-Injury: Anemias"	"GR113-045"	207	98585656	0.2
+	"2004"	"2004"	"Non-Injury: Diabetes mellitus"	"GR113-046"	206	98585656	0.2
+	"2004"	"2004"	"Non-Injury: Nutritional Deficiencies"	"GR113 048-049"	11	98585656	Unreliable
+	"2004"	"2004"	"Non-Injury: Meningitis"	"GR113-050"	76	98585656	0.1
+	"2004"	"2004"	"Non-Injury: Parkinsons disease"	"GR113-051"	2	98585656	Unreliable
+	"2004"	"2004"	"Non-Injury: Alzheimers disease"	"GR113-052"	1	98585656	Unreliable
+	"2004"	"2004"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	1470	98585656	1.5
+	"2004"	"2004"	"Non-Injury: Essential (primary) hypertension and hypertensive renal disease"	"GR113-069"	23	98585656	0.0
+	"2004"	"2004"	"Non-Injury: Cerebrovascular diseases, including stroke"	"GR113-070"	329	98585656	0.3
+	"2004"	"2004"	"Non-Injury: Atherosclerosis"	"GR113-071"	3	98585656	Unreliable
+	"2004"	"2004"	"Non-Injury: Other diseases of the circulatory system"	"GR113 073-074"	78	98585656	0.1
+	"2004"	"2004"	"Non-Injury: Other disorders of circulatory system"	"GR113-075"	42	98585656	0.0
+	"2004"	"2004"	"Non-Injury: Influenza & Pneumonia"	"GR113 077-078"	386	98585656	0.4
+	"2004"	"2004"	"Non-Injury: Other acute lower respiratory infections"	"GR113 079"	21	98585656	0.0
+	"2004"	"2004"	"Non-Injury: Chronic lower respiratory diseases"	"GR113 082"	347	98585656	0.4
+	"2004"	"2004"	"Non-Injury: Pneumoconioses and chemical effects"	"GR113-087"	1	98585656	Unreliable
+	"2004"	"2004"	"Non-Injury: Pneumonitis due to solids and liquids"	"GR113-088"	59	98585656	0.1
+	"2004"	"2004"	"Non-Injury: Other diseases of respiratory system"	"GR113-089"	290	98585656	0.3
+	"2004"	"2004"	"Non-Injury: Peptic ulcer"	"GR113-090"	15	98585656	Unreliable
+	"2004"	"2004"	"Non-Injury: Diseases of appendix"	"GR113-091"	25	98585656	0.0
+	"2004"	"2004"	"Non-Injury: Hernia"	"GR113-092"	17	98585656	Unreliable
+	"2004"	"2004"	"Non-Injury: Chronic liver disease and cirrhosis"	"GR113 093"	21	98585656	0.0
+	"2004"	"2004"	"Non-Injury: Cholelithiasis and other disorders of gallbladder"	"GR113-096"	8	98585656	Unreliable
+	"2004"	"2004"	"Non-Injury: Nephritis, nephrotic syndrome and nephrosis"	"GR113 097"	122	98585656	0.1
+	"2004"	"2004"	"Non-Injury: Infections of kidney"	"GR113-102"	8	98585656	Unreliable
+	"2004"	"2004"	"Non-Injury: Inflammatory diseases of female pelvic organs"	"GR113-104"	2	98585656	Unreliable
+	"2004"	"2004"	"Non-Injury: Pregnancy with abortive outcome"	"GR113-106"	14	98585656	Unreliable
+	"2004"	"2004"	"Non-Injury: Other complications of pregnancy, childbirth and the puerperium"	"GR113-107"	156	98585656	0.2
+	"2004"	"2004"	"Non-Injury: Certain conditions originating in the perinatal period"	"GR113-108"	109	98585656	0.1
+	"2004"	"2004"	"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities"	"GR113-109"	1441	98585656	1.5
+	"2004"	"2004"	"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"	"GR113-110"	967	98585656	1.0
+	"2004"	"2004"	"Non-Injury: All other diseases (Residual)"	"GR113-111"	3460	98585656	3.5
+	"2004"	"2004"	"Non-Injury: Complications of medical and surgical care"	"GR113-135"	86	98585656	0.1
+"Total"	"2004"	"2004"			45040	98585656	45.7
+	"2005"	"2005"	"Cut/Pierce"	"GRINJ-001"	609	98960822	0.6
+	"2005"	"2005"	"Drowning"	"GRINJ-002"	1494	98960822	1.5
+	"2005"	"2005"	"Fall"	"GRINJ-003"	430	98960822	0.4
+	"2005"	"2005"	"Fire/Flame"	"GRINJ-004"	689	98960822	0.7
+	"2005"	"2005"	"Hot object/Substance"	"GRINJ-005"	13	98960822	Unreliable
+	"2005"	"2005"	"Firearm"	"GRINJ-006"	7218	98960822	7.3
+	"2005"	"2005"	"Machinery"	"GRINJ-007"	85	98960822	0.1
+	"2005"	"2005"	"Motor Vehicle Traffic"	"GRINJ-008"	12469	98960822	12.6
+	"2005"	"2005"	"Other Pedal cyclist"	"GRINJ-009"	39	98960822	0.0
+	"2005"	"2005"	"Other Pedestrian"	"GRINJ-010"	300	98960822	0.3
+	"2005"	"2005"	"Other land transport"	"GRINJ-011"	474	98960822	0.5
+	"2005"	"2005"	"Other transport"	"GRINJ-012"	182	98960822	0.2
+	"2005"	"2005"	"Natural/Environmental"	"GRINJ-013"	158	98960822	0.2
+	"2005"	"2005"	"Overexertion"	"GRINJ-014"	1	98960822	Unreliable
+	"2005"	"2005"	"Poisoning"	"GRINJ-015"	3284	98960822	3.3
+	"2005"	"2005"	"Struck by or against"	"GRINJ-016"	178	98960822	0.2
+	"2005"	"2005"	"Suffocation"	"GRINJ-017"	2349	98960822	2.4
+	"2005"	"2005"	"Other specified, classifiable Injury"	"GRINJ-018"	322	98960822	0.3
+	"2005"	"2005"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	225	98960822	0.2
+	"2005"	"2005"	"Unspecified Injury"	"GRINJ-020"	683	98960822	0.7
+	"2005"	"2005"	"Non-Injury: Intestinal infections"	"GR113 001-003"	29	98960822	0.0
+	"2005"	"2005"	"Non-Injury: Tuberculosis"	"GR113 005-006"	22	98960822	0.0
+	"2005"	"2005"	"Non-Injury: Whooping cough"	"GR113-007"	1	98960822	Unreliable
+	"2005"	"2005"	"Non-Injury: Scarlet fever and erysipelas"	"GR113-008"	1	98960822	Unreliable
+	"2005"	"2005"	"Non-Injury: Meningococcal infection"	"GR113-009"	47	98960822	0.0
+	"2005"	"2005"	"Non-Injury: Septicemia"	"GR113-010"	314	98960822	0.3
+	"2005"	"2005"	"Non-Injury: Syphilis"	"GR113-011"	1	98960822	Unreliable
+	"2005"	"2005"	"Non-Injury: Arthropod-borne viral encephalitis"	"GR113-013"	2	98960822	Unreliable
+	"2005"	"2005"	"Non-Injury: Measles"	"GR113-014"	1	98960822	Unreliable
+	"2005"	"2005"	"Non-Injury: Viral hepatitis"	"GR113-015"	15	98960822	Unreliable
+	"2005"	"2005"	"Non-Injury: Human immunodeficiency virus (HIV) disease"	"GR113-016"	174	98960822	0.2
+	"2005"	"2005"	"Non-Injury: Malaria"	"GR113-017"	2	98960822	Unreliable
+	"2005"	"2005"	"Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae"	"GR113-018"	213	98960822	0.2
+	"2005"	"2005"	"Non-Injury: Malignant neoplasms (Cancers)"	"GR113 020-043"	3094	98960822	3.1
+	"2005"	"2005"	"Non-Injury: In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior"	"GR113-044"	221	98960822	0.2
+	"2005"	"2005"	"Non-Injury: Anemias"	"GR113-045"	152	98960822	0.2
+	"2005"	"2005"	"Non-Injury: Diabetes mellitus"	"GR113-046"	242	98960822	0.2
+	"2005"	"2005"	"Non-Injury: Nutritional Deficiencies"	"GR113 048-049"	10	98960822	Unreliable
+	"2005"	"2005"	"Non-Injury: Meningitis"	"GR113-050"	86	98960822	0.1
+	"2005"	"2005"	"Non-Injury: Parkinsons disease"	"GR113-051"	3	98960822	Unreliable
+	"2005"	"2005"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	1522	98960822	1.5
+	"2005"	"2005"	"Non-Injury: Essential (primary) hypertension and hypertensive renal disease"	"GR113-069"	25	98960822	0.0
+	"2005"	"2005"	"Non-Injury: Cerebrovascular diseases, including stroke"	"GR113-070"	353	98960822	0.4
+	"2005"	"2005"	"Non-Injury: Atherosclerosis"	"GR113-071"	3	98960822	Unreliable
+	"2005"	"2005"	"Non-Injury: Other diseases of the circulatory system"	"GR113 073-074"	72	98960822	0.1
+	"2005"	"2005"	"Non-Injury: Other disorders of circulatory system"	"GR113-075"	47	98960822	0.0
+	"2005"	"2005"	"Non-Injury: Influenza & Pneumonia"	"GR113 077-078"	388	98960822	0.4
+	"2005"	"2005"	"Non-Injury: Other acute lower respiratory infections"	"GR113 079"	24	98960822	0.0
+	"2005"	"2005"	"Non-Injury: Chronic lower respiratory diseases"	"GR113 082"	308	98960822	0.3
+	"2005"	"2005"	"Non-Injury: Pneumoconioses and chemical effects"	"GR113-087"	2	98960822	Unreliable
+	"2005"	"2005"	"Non-Injury: Pneumonitis due to solids and liquids"	"GR113-088"	64	98960822	0.1
+	"2005"	"2005"	"Non-Injury: Other diseases of respiratory system"	"GR113-089"	265	98960822	0.3
+	"2005"	"2005"	"Non-Injury: Peptic ulcer"	"GR113-090"	10	98960822	Unreliable
+	"2005"	"2005"	"Non-Injury: Diseases of appendix"	"GR113-091"	25	98960822	0.0
+	"2005"	"2005"	"Non-Injury: Hernia"	"GR113-092"	8	98960822	Unreliable
+	"2005"	"2005"	"Non-Injury: Chronic liver disease and cirrhosis"	"GR113 093"	26	98960822	0.0
+	"2005"	"2005"	"Non-Injury: Cholelithiasis and other disorders of gallbladder"	"GR113-096"	12	98960822	Unreliable
+	"2005"	"2005"	"Non-Injury: Nephritis, nephrotic syndrome and nephrosis"	"GR113 097"	130	98960822	0.1
+	"2005"	"2005"	"Non-Injury: Infections of kidney"	"GR113-102"	15	98960822	Unreliable
+	"2005"	"2005"	"Non-Injury: Inflammatory diseases of female pelvic organs"	"GR113-104"	1	98960822	Unreliable
+	"2005"	"2005"	"Non-Injury: Pregnancy with abortive outcome"	"GR113-106"	6	98960822	Unreliable
+	"2005"	"2005"	"Non-Injury: Other complications of pregnancy, childbirth and the puerperium"	"GR113-107"	177	98960822	0.2
+	"2005"	"2005"	"Non-Injury: Certain conditions originating in the perinatal period"	"GR113-108"	102	98960822	0.1
+	"2005"	"2005"	"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities"	"GR113-109"	1422	98960822	1.4
+	"2005"	"2005"	"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"	"GR113-110"	1163	98960822	1.2
+	"2005"	"2005"	"Non-Injury: All other diseases (Residual)"	"GR113-111"	3529	98960822	3.6
+	"2005"	"2005"	"Non-Injury: Complications of medical and surgical care"	"GR113-135"	61	98960822	0.1
+"Total"	"2005"	"2005"			45592	98960822	46.1
+	"2006"	"2006"	"Cut/Pierce"	"GRINJ-001"	559	99318815	0.6
+	"2006"	"2006"	"Drowning"	"GRINJ-002"	1440	99318815	1.4
+	"2006"	"2006"	"Fall"	"GRINJ-003"	462	99318815	0.5
+	"2006"	"2006"	"Fire/Flame"	"GRINJ-004"	646	99318815	0.7
+	"2006"	"2006"	"Hot object/Substance"	"GRINJ-005"	9	99318815	Unreliable
+	"2006"	"2006"	"Firearm"	"GRINJ-006"	7558	99318815	7.6
+	"2006"	"2006"	"Machinery"	"GRINJ-007"	91	99318815	0.1
+	"2006"	"2006"	"Motor Vehicle Traffic"	"GRINJ-008"	12428	99318815	12.5
+	"2006"	"2006"	"Other Pedal cyclist"	"GRINJ-009"	46	99318815	0.0
+	"2006"	"2006"	"Other Pedestrian"	"GRINJ-010"	289	99318815	0.3
+	"2006"	"2006"	"Other land transport"	"GRINJ-011"	457	99318815	0.5
+	"2006"	"2006"	"Other transport"	"GRINJ-012"	220	99318815	0.2
+	"2006"	"2006"	"Natural/Environmental"	"GRINJ-013"	133	99318815	0.1
+	"2006"	"2006"	"Poisoning"	"GRINJ-015"	3819	99318815	3.8
+	"2006"	"2006"	"Struck by or against"	"GRINJ-016"	167	99318815	0.2
+	"2006"	"2006"	"Suffocation"	"GRINJ-017"	2263	99318815	2.3
+	"2006"	"2006"	"Other specified, classifiable Injury"	"GRINJ-018"	340	99318815	0.3
+	"2006"	"2006"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	244	99318815	0.2
+	"2006"	"2006"	"Unspecified Injury"	"GRINJ-020"	619	99318815	0.6
+	"2006"	"2006"	"Non-Injury: Intestinal infections"	"GR113 001-003"	28	99318815	0.0
+	"2006"	"2006"	"Non-Injury: Tuberculosis"	"GR113 005-006"	9	99318815	Unreliable
+	"2006"	"2006"	"Non-Injury: Scarlet fever and erysipelas"	"GR113-008"	1	99318815	Unreliable
+	"2006"	"2006"	"Non-Injury: Meningococcal infection"	"GR113-009"	43	99318815	0.0
+	"2006"	"2006"	"Non-Injury: Septicemia"	"GR113-010"	311	99318815	0.3
+	"2006"	"2006"	"Non-Injury: Syphilis"	"GR113-011"	2	99318815	Unreliable
+	"2006"	"2006"	"Non-Injury: Arthropod-borne viral encephalitis"	"GR113-013"	2	99318815	Unreliable
+	"2006"	"2006"	"Non-Injury: Viral hepatitis"	"GR113-015"	12	99318815	Unreliable
+	"2006"	"2006"	"Non-Injury: Human immunodeficiency virus (HIV) disease"	"GR113-016"	221	99318815	0.2
+	"2006"	"2006"	"Non-Injury: Malaria"	"GR113-017"	1	99318815	Unreliable
+	"2006"	"2006"	"Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae"	"GR113-018"	218	99318815	0.2
+	"2006"	"2006"	"Non-Injury: Malignant neoplasms (Cancers)"	"GR113 020-043"	2928	99318815	2.9
+	"2006"	"2006"	"Non-Injury: In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior"	"GR113-044"	236	99318815	0.2
+	"2006"	"2006"	"Non-Injury: Anemias"	"GR113-045"	153	99318815	0.2
+	"2006"	"2006"	"Non-Injury: Diabetes mellitus"	"GR113-046"	200	99318815	0.2
+	"2006"	"2006"	"Non-Injury: Nutritional Deficiencies"	"GR113 048-049"	12	99318815	Unreliable
+	"2006"	"2006"	"Non-Injury: Meningitis"	"GR113-050"	60	99318815	0.1
+	"2006"	"2006"	"Non-Injury: Parkinsons disease"	"GR113-051"	3	99318815	Unreliable
+	"2006"	"2006"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	1490	99318815	1.5
+	"2006"	"2006"	"Non-Injury: Essential (primary) hypertension and hypertensive renal disease"	"GR113-069"	25	99318815	0.0
+	"2006"	"2006"	"Non-Injury: Cerebrovascular diseases, including stroke"	"GR113-070"	359	99318815	0.4
+	"2006"	"2006"	"Non-Injury: Atherosclerosis"	"GR113-071"	2	99318815	Unreliable
+	"2006"	"2006"	"Non-Injury: Other diseases of the circulatory system"	"GR113 073-074"	81	99318815	0.1
+	"2006"	"2006"	"Non-Injury: Other disorders of circulatory system"	"GR113-075"	54	99318815	0.1
+	"2006"	"2006"	"Non-Injury: Influenza & Pneumonia"	"GR113 077-078"	377	99318815	0.4
+	"2006"	"2006"	"Non-Injury: Other acute lower respiratory infections"	"GR113 079"	21	99318815	0.0
+	"2006"	"2006"	"Non-Injury: Chronic lower respiratory diseases"	"GR113 082"	309	99318815	0.3
+	"2006"	"2006"	"Non-Injury: Pneumoconioses and chemical effects"	"GR113-087"	2	99318815	Unreliable
+	"2006"	"2006"	"Non-Injury: Pneumonitis due to solids and liquids"	"GR113-088"	52	99318815	0.1
+	"2006"	"2006"	"Non-Injury: Other diseases of respiratory system"	"GR113-089"	270	99318815	0.3
+	"2006"	"2006"	"Non-Injury: Peptic ulcer"	"GR113-090"	9	99318815	Unreliable
+	"2006"	"2006"	"Non-Injury: Diseases of appendix"	"GR113-091"	22	99318815	0.0
+	"2006"	"2006"	"Non-Injury: Hernia"	"GR113-092"	12	99318815	Unreliable
+	"2006"	"2006"	"Non-Injury: Chronic liver disease and cirrhosis"	"GR113 093"	29	99318815	0.0
+	"2006"	"2006"	"Non-Injury: Cholelithiasis and other disorders of gallbladder"	"GR113-096"	10	99318815	Unreliable
+	"2006"	"2006"	"Non-Injury: Nephritis, nephrotic syndrome and nephrosis"	"GR113 097"	131	99318815	0.1
+	"2006"	"2006"	"Non-Injury: Infections of kidney"	"GR113-102"	7	99318815	Unreliable
+	"2006"	"2006"	"Non-Injury: Inflammatory diseases of female pelvic organs"	"GR113-104"	2	99318815	Unreliable
+	"2006"	"2006"	"Non-Injury: Pregnancy with abortive outcome"	"GR113-106"	6	99318815	Unreliable
+	"2006"	"2006"	"Non-Injury: Other complications of pregnancy, childbirth and the puerperium"	"GR113-107"	175	99318815	0.2
+	"2006"	"2006"	"Non-Injury: Certain conditions originating in the perinatal period"	"GR113-108"	103	99318815	0.1
+	"2006"	"2006"	"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities"	"GR113-109"	1319	99318815	1.3
+	"2006"	"2006"	"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"	"GR113-110"	1024	99318815	1.0
+	"2006"	"2006"	"Non-Injury: All other diseases (Residual)"	"GR113-111"	3460	99318815	3.5
+	"2006"	"2006"	"Non-Injury: Complications of medical and surgical care"	"GR113-135"	86	99318815	0.1
+"Total"	"2006"	"2006"			45667	99318815	46.0
+	"2007"	"2007"	"Cut/Pierce"	"GRINJ-001"	539	99679433	0.5
+	"2007"	"2007"	"Drowning"	"GRINJ-002"	1418	99679433	1.4
+	"2007"	"2007"	"Fall"	"GRINJ-003"	424	99679433	0.4
+	"2007"	"2007"	"Fire/Flame"	"GRINJ-004"	677	99679433	0.7
+	"2007"	"2007"	"Hot object/Substance"	"GRINJ-005"	10	99679433	Unreliable
+	"2007"	"2007"	"Firearm"	"GRINJ-006"	7284	99679433	7.3
+	"2007"	"2007"	"Machinery"	"GRINJ-007"	74	99679433	0.1
+	"2007"	"2007"	"Motor Vehicle Traffic"	"GRINJ-008"	11852	99679433	11.9
+	"2007"	"2007"	"Other Pedal cyclist"	"GRINJ-009"	40	99679433	0.0
+	"2007"	"2007"	"Other Pedestrian"	"GRINJ-010"	312	99679433	0.3
+	"2007"	"2007"	"Other land transport"	"GRINJ-011"	494	99679433	0.5
+	"2007"	"2007"	"Other transport"	"GRINJ-012"	171	99679433	0.2
+	"2007"	"2007"	"Natural/Environmental"	"GRINJ-013"	146	99679433	0.1
+	"2007"	"2007"	"Poisoning"	"GRINJ-015"	4066	99679433	4.1
+	"2007"	"2007"	"Struck by or against"	"GRINJ-016"	162	99679433	0.2
+	"2007"	"2007"	"Suffocation"	"GRINJ-017"	2243	99679433	2.3
+	"2007"	"2007"	"Other specified, classifiable Injury"	"GRINJ-018"	346	99679433	0.3
+	"2007"	"2007"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	230	99679433	0.2
+	"2007"	"2007"	"Unspecified Injury"	"GRINJ-020"	588	99679433	0.6
+	"2007"	"2007"	"Non-Injury: Intestinal infections"	"GR113 001-003"	28	99679433	0.0
+	"2007"	"2007"	"Non-Injury: Tuberculosis"	"GR113 005-006"	7	99679433	Unreliable
+	"2007"	"2007"	"Non-Injury: Meningococcal infection"	"GR113-009"	37	99679433	0.0
+	"2007"	"2007"	"Non-Injury: Septicemia"	"GR113-010"	312	99679433	0.3
+	"2007"	"2007"	"Non-Injury: Arthropod-borne viral encephalitis"	"GR113-013"	1	99679433	Unreliable
+	"2007"	"2007"	"Non-Injury: Viral hepatitis"	"GR113-015"	15	99679433	Unreliable
+	"2007"	"2007"	"Non-Injury: Human immunodeficiency virus (HIV) disease"	"GR113-016"	174	99679433	0.2
+	"2007"	"2007"	"Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae"	"GR113-018"	211	99679433	0.2
+	"2007"	"2007"	"Non-Injury: Malignant neoplasms (Cancers)"	"GR113 020-043"	2976	99679433	3.0
+	"2007"	"2007"	"Non-Injury: In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior"	"GR113-044"	224	99679433	0.2
+	"2007"	"2007"	"Non-Injury: Anemias"	"GR113-045"	139	99679433	0.1
+	"2007"	"2007"	"Non-Injury: Diabetes mellitus"	"GR113-046"	194	99679433	0.2
+	"2007"	"2007"	"Non-Injury: Nutritional Deficiencies"	"GR113 048-049"	12	99679433	Unreliable
+	"2007"	"2007"	"Non-Injury: Meningitis"	"GR113-050"	76	99679433	0.1
+	"2007"	"2007"	"Non-Injury: Parkinsons disease"	"GR113-051"	2	99679433	Unreliable
+	"2007"	"2007"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	1498	99679433	1.5
+	"2007"	"2007"	"Non-Injury: Essential (primary) hypertension and hypertensive renal disease"	"GR113-069"	24	99679433	0.0
+	"2007"	"2007"	"Non-Injury: Cerebrovascular diseases, including stroke"	"GR113-070"	330	99679433	0.3
+	"2007"	"2007"	"Non-Injury: Atherosclerosis"	"GR113-071"	2	99679433	Unreliable
+	"2007"	"2007"	"Non-Injury: Other diseases of the circulatory system"	"GR113 073-074"	83	99679433	0.1
+	"2007"	"2007"	"Non-Injury: Other disorders of circulatory system"	"GR113-075"	49	99679433	0.0
+	"2007"	"2007"	"Non-Injury: Influenza & Pneumonia"	"GR113 077-078"	375	99679433	0.4
+	"2007"	"2007"	"Non-Injury: Other acute lower respiratory infections"	"GR113 079"	22	99679433	0.0
+	"2007"	"2007"	"Non-Injury: Chronic lower respiratory diseases"	"GR113 082"	324	99679433	0.3
+	"2007"	"2007"	"Non-Injury: Pneumonitis due to solids and liquids"	"GR113-088"	71	99679433	0.1
+	"2007"	"2007"	"Non-Injury: Other diseases of respiratory system"	"GR113-089"	318	99679433	0.3
+	"2007"	"2007"	"Non-Injury: Peptic ulcer"	"GR113-090"	8	99679433	Unreliable
+	"2007"	"2007"	"Non-Injury: Diseases of appendix"	"GR113-091"	28	99679433	0.0
+	"2007"	"2007"	"Non-Injury: Hernia"	"GR113-092"	9	99679433	Unreliable
+	"2007"	"2007"	"Non-Injury: Chronic liver disease and cirrhosis"	"GR113 093"	34	99679433	0.0
+	"2007"	"2007"	"Non-Injury: Cholelithiasis and other disorders of gallbladder"	"GR113-096"	10	99679433	Unreliable
+	"2007"	"2007"	"Non-Injury: Nephritis, nephrotic syndrome and nephrosis"	"GR113 097"	132	99679433	0.1
+	"2007"	"2007"	"Non-Injury: Infections of kidney"	"GR113-102"	10	99679433	Unreliable
+	"2007"	"2007"	"Non-Injury: Inflammatory diseases of female pelvic organs"	"GR113-104"	1	99679433	Unreliable
+	"2007"	"2007"	"Non-Injury: Pregnancy with abortive outcome"	"GR113-106"	7	99679433	Unreliable
+	"2007"	"2007"	"Non-Injury: Other complications of pregnancy, childbirth and the puerperium"	"GR113-107"	154	99679433	0.2
+	"2007"	"2007"	"Non-Injury: Certain conditions originating in the perinatal period"	"GR113-108"	109	99679433	0.1
+	"2007"	"2007"	"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities"	"GR113-109"	1322	99679433	1.3
+	"2007"	"2007"	"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"	"GR113-110"	922	99679433	0.9
+	"2007"	"2007"	"Non-Injury: All other diseases (Residual)"	"GR113-111"	3432	99679433	3.4
+	"2007"	"2007"	"Non-Injury: Complications of medical and surgical care"	"GR113-135"	74	99679433	0.1
+"Total"	"2007"	"2007"			44832	99679433	45.0
+	"2008"	"2008"	"Cut/Pierce"	"GRINJ-001"	581	100166141	0.6
+	"2008"	"2008"	"Drowning"	"GRINJ-002"	1373	100166141	1.4
+	"2008"	"2008"	"Fall"	"GRINJ-003"	428	100166141	0.4
+	"2008"	"2008"	"Fire/Flame"	"GRINJ-004"	538	100166141	0.5
+	"2008"	"2008"	"Hot object/Substance"	"GRINJ-005"	9	100166141	Unreliable
+	"2008"	"2008"	"Firearm"	"GRINJ-006"	7052	100166141	7.0
+	"2008"	"2008"	"Machinery"	"GRINJ-007"	68	100166141	0.1
+	"2008"	"2008"	"Motor Vehicle Traffic"	"GRINJ-008"	9910	100166141	9.9
+	"2008"	"2008"	"Other Pedal cyclist"	"GRINJ-009"	48	100166141	0.0
+	"2008"	"2008"	"Other Pedestrian"	"GRINJ-010"	299	100166141	0.3
+	"2008"	"2008"	"Other land transport"	"GRINJ-011"	453	100166141	0.5
+	"2008"	"2008"	"Other transport"	"GRINJ-012"	142	100166141	0.1
+	"2008"	"2008"	"Natural/Environmental"	"GRINJ-013"	130	100166141	0.1
+	"2008"	"2008"	"Poisoning"	"GRINJ-015"	4000	100166141	4.0
+	"2008"	"2008"	"Struck by or against"	"GRINJ-016"	167	100166141	0.2
+	"2008"	"2008"	"Suffocation"	"GRINJ-017"	2339	100166141	2.3
+	"2008"	"2008"	"Other specified, classifiable Injury"	"GRINJ-018"	324	100166141	0.3
+	"2008"	"2008"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	212	100166141	0.2
+	"2008"	"2008"	"Unspecified Injury"	"GRINJ-020"	603	100166141	0.6
+	"2008"	"2008"	"Non-Injury: Intestinal infections"	"GR113 001-003"	15	100166141	Unreliable
+	"2008"	"2008"	"Non-Injury: Tuberculosis"	"GR113 005-006"	11	100166141	Unreliable
+	"2008"	"2008"	"Non-Injury: Meningococcal infection"	"GR113-009"	38	100166141	0.0
+	"2008"	"2008"	"Non-Injury: Septicemia"	"GR113-010"	293	100166141	0.3
+	"2008"	"2008"	"Non-Injury: Syphilis"	"GR113-011"	1	100166141	Unreliable
+	"2008"	"2008"	"Non-Injury: Arthropod-borne viral encephalitis"	"GR113-013"	1	100166141	Unreliable
+	"2008"	"2008"	"Non-Injury: Viral hepatitis"	"GR113-015"	11	100166141	Unreliable
+	"2008"	"2008"	"Non-Injury: Human immunodeficiency virus (HIV) disease"	"GR113-016"	171	100166141	0.2
+	"2008"	"2008"	"Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae"	"GR113-018"	190	100166141	0.2
+	"2008"	"2008"	"Non-Injury: Malignant neoplasms (Cancers)"	"GR113 020-043"	2947	100166141	2.9
+	"2008"	"2008"	"Non-Injury: In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior"	"GR113-044"	229	100166141	0.2
+	"2008"	"2008"	"Non-Injury: Anemias"	"GR113-045"	174	100166141	0.2
+	"2008"	"2008"	"Non-Injury: Diabetes mellitus"	"GR113-046"	245	100166141	0.2
+	"2008"	"2008"	"Non-Injury: Nutritional Deficiencies"	"GR113 048-049"	10	100166141	Unreliable
+	"2008"	"2008"	"Non-Injury: Meningitis"	"GR113-050"	51	100166141	0.1
+	"2008"	"2008"	"Non-Injury: Parkinsons disease"	"GR113-051"	4	100166141	Unreliable
+	"2008"	"2008"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	1480	100166141	1.5
+	"2008"	"2008"	"Non-Injury: Essential (primary) hypertension and hypertensive renal disease"	"GR113-069"	26	100166141	0.0
+	"2008"	"2008"	"Non-Injury: Cerebrovascular diseases, including stroke"	"GR113-070"	349	100166141	0.3
+	"2008"	"2008"	"Non-Injury: Atherosclerosis"	"GR113-071"	1	100166141	Unreliable
+	"2008"	"2008"	"Non-Injury: Other diseases of the circulatory system"	"GR113 073-074"	70	100166141	0.1
+	"2008"	"2008"	"Non-Injury: Other disorders of circulatory system"	"GR113-075"	58	100166141	0.1
+	"2008"	"2008"	"Non-Injury: Influenza & Pneumonia"	"GR113 077-078"	437	100166141	0.4
+	"2008"	"2008"	"Non-Injury: Other acute lower respiratory infections"	"GR113 079"	28	100166141	0.0
+	"2008"	"2008"	"Non-Injury: Chronic lower respiratory diseases"	"GR113 082"	336	100166141	0.3
+	"2008"	"2008"	"Non-Injury: Pneumonitis due to solids and liquids"	"GR113-088"	56	100166141	0.1
+	"2008"	"2008"	"Non-Injury: Other diseases of respiratory system"	"GR113-089"	297	100166141	0.3
+	"2008"	"2008"	"Non-Injury: Peptic ulcer"	"GR113-090"	10	100166141	Unreliable
+	"2008"	"2008"	"Non-Injury: Diseases of appendix"	"GR113-091"	23	100166141	0.0
+	"2008"	"2008"	"Non-Injury: Hernia"	"GR113-092"	8	100166141	Unreliable
+	"2008"	"2008"	"Non-Injury: Chronic liver disease and cirrhosis"	"GR113 093"	25	100166141	0.0
+	"2008"	"2008"	"Non-Injury: Cholelithiasis and other disorders of gallbladder"	"GR113-096"	8	100166141	Unreliable
+	"2008"	"2008"	"Non-Injury: Nephritis, nephrotic syndrome and nephrosis"	"GR113 097"	109	100166141	0.1
+	"2008"	"2008"	"Non-Injury: Infections of kidney"	"GR113-102"	9	100166141	Unreliable
+	"2008"	"2008"	"Non-Injury: Inflammatory diseases of female pelvic organs"	"GR113-104"	2	100166141	Unreliable
+	"2008"	"2008"	"Non-Injury: Pregnancy with abortive outcome"	"GR113-106"	11	100166141	Unreliable
+	"2008"	"2008"	"Non-Injury: Other complications of pregnancy, childbirth and the puerperium"	"GR113-107"	158	100166141	0.2
+	"2008"	"2008"	"Non-Injury: Certain conditions originating in the perinatal period"	"GR113-108"	103	100166141	0.1
+	"2008"	"2008"	"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities"	"GR113-109"	1319	100166141	1.3
+	"2008"	"2008"	"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"	"GR113-110"	1089	100166141	1.1
+	"2008"	"2008"	"Non-Injury: All other diseases (Residual)"	"GR113-111"	3425	100166141	3.4
+	"2008"	"2008"	"Non-Injury: Complications of medical and surgical care"	"GR113-135"	75	100166141	0.1
+"Total"	"2008"	"2008"			42579	100166141	42.5
+	"2009"	"2009"	"Cut/Pierce"	"GRINJ-001"	504	100660926	0.5
+	"2009"	"2009"	"Drowning"	"GRINJ-002"	1314	100660926	1.3
+	"2009"	"2009"	"Fall"	"GRINJ-003"	385	100660926	0.4
+	"2009"	"2009"	"Fire/Flame"	"GRINJ-004"	517	100660926	0.5
+	"2009"	"2009"	"Hot object/Substance"	"GRINJ-005"	3	100660926	Unreliable
+	"2009"	"2009"	"Firearm"	"GRINJ-006"	6637	100660926	6.6
+	"2009"	"2009"	"Machinery"	"GRINJ-007"	55	100660926	0.1
+	"2009"	"2009"	"Motor Vehicle Traffic"	"GRINJ-008"	8682	100660926	8.6
+	"2009"	"2009"	"Other Pedal cyclist"	"GRINJ-009"	39	100660926	0.0
+	"2009"	"2009"	"Other Pedestrian"	"GRINJ-010"	267	100660926	0.3
+	"2009"	"2009"	"Other land transport"	"GRINJ-011"	385	100660926	0.4
+	"2009"	"2009"	"Other transport"	"GRINJ-012"	139	100660926	0.1
+	"2009"	"2009"	"Natural/Environmental"	"GRINJ-013"	105	100660926	0.1
+	"2009"	"2009"	"Overexertion"	"GRINJ-014"	1	100660926	Unreliable
+	"2009"	"2009"	"Poisoning"	"GRINJ-015"	3825	100660926	3.8
+	"2009"	"2009"	"Struck by or against"	"GRINJ-016"	127	100660926	0.1
+	"2009"	"2009"	"Suffocation"	"GRINJ-017"	2354	100660926	2.3
+	"2009"	"2009"	"Other specified, classifiable Injury"	"GRINJ-018"	323	100660926	0.3
+	"2009"	"2009"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	202	100660926	0.2
+	"2009"	"2009"	"Unspecified Injury"	"GRINJ-020"	577	100660926	0.6
+	"2009"	"2009"	"Non-Injury: Intestinal infections"	"GR113 001-003"	41	100660926	0.0
+	"2009"	"2009"	"Non-Injury: Tuberculosis"	"GR113 005-006"	6	100660926	Unreliable
+	"2009"	"2009"	"Non-Injury: Scarlet fever and erysipelas"	"GR113-008"	1	100660926	Unreliable
+	"2009"	"2009"	"Non-Injury: Meningococcal infection"	"GR113-009"	31	100660926	0.0
+	"2009"	"2009"	"Non-Injury: Septicemia"	"GR113-010"	285	100660926	0.3
+	"2009"	"2009"	"Non-Injury: Arthropod-borne viral encephalitis"	"GR113-013"	1	100660926	Unreliable
+	"2009"	"2009"	"Non-Injury: Viral hepatitis"	"GR113-015"	6	100660926	Unreliable
+	"2009"	"2009"	"Non-Injury: Human immunodeficiency virus (HIV) disease"	"GR113-016"	154	100660926	0.2
+	"2009"	"2009"	"Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae"	"GR113-018"	211	100660926	0.2
+	"2009"	"2009"	"Non-Injury: Malignant neoplasms (Cancers)"	"GR113 020-043"	2882	100660926	2.9
+	"2009"	"2009"	"Non-Injury: In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior"	"GR113-044"	210	100660926	0.2
+	"2009"	"2009"	"Non-Injury: Anemias"	"GR113-045"	148	100660926	0.1
+	"2009"	"2009"	"Non-Injury: Diabetes mellitus"	"GR113-046"	197	100660926	0.2
+	"2009"	"2009"	"Non-Injury: Nutritional Deficiencies"	"GR113 048-049"	14	100660926	Unreliable
+	"2009"	"2009"	"Non-Injury: Meningitis"	"GR113-050"	65	100660926	0.1
+	"2009"	"2009"	"Non-Injury: Parkinsons disease"	"GR113-051"	1	100660926	Unreliable
+	"2009"	"2009"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	1406	100660926	1.4
+	"2009"	"2009"	"Non-Injury: Essential (primary) hypertension and hypertensive renal disease"	"GR113-069"	25	100660926	0.0
+	"2009"	"2009"	"Non-Injury: Cerebrovascular diseases, including stroke"	"GR113-070"	314	100660926	0.3
+	"2009"	"2009"	"Non-Injury: Atherosclerosis"	"GR113-071"	3	100660926	Unreliable
+	"2009"	"2009"	"Non-Injury: Other diseases of the circulatory system"	"GR113 073-074"	65	100660926	0.1
+	"2009"	"2009"	"Non-Injury: Other disorders of circulatory system"	"GR113-075"	55	100660926	0.1
+	"2009"	"2009"	"Non-Injury: Influenza & Pneumonia"	"GR113 077-078"	792	100660926	0.8
+	"2009"	"2009"	"Non-Injury: Other acute lower respiratory infections"	"GR113 079"	30	100660926	0.0
+	"2009"	"2009"	"Non-Injury: Chronic lower respiratory diseases"	"GR113 082"	376	100660926	0.4
+	"2009"	"2009"	"Non-Injury: Pneumonitis due to solids and liquids"	"GR113-088"	69	100660926	0.1
+	"2009"	"2009"	"Non-Injury: Other diseases of respiratory system"	"GR113-089"	325	100660926	0.3
+	"2009"	"2009"	"Non-Injury: Peptic ulcer"	"GR113-090"	11	100660926	Unreliable
+	"2009"	"2009"	"Non-Injury: Diseases of appendix"	"GR113-091"	30	100660926	0.0
+	"2009"	"2009"	"Non-Injury: Hernia"	"GR113-092"	11	100660926	Unreliable
+	"2009"	"2009"	"Non-Injury: Chronic liver disease and cirrhosis"	"GR113 093"	26	100660926	0.0
+	"2009"	"2009"	"Non-Injury: Cholelithiasis and other disorders of gallbladder"	"GR113-096"	8	100660926	Unreliable
+	"2009"	"2009"	"Non-Injury: Nephritis, nephrotic syndrome and nephrosis"	"GR113 097"	119	100660926	0.1
+	"2009"	"2009"	"Non-Injury: Infections of kidney"	"GR113-102"	6	100660926	Unreliable
+	"2009"	"2009"	"Non-Injury: Inflammatory diseases of female pelvic organs"	"GR113-104"	6	100660926	Unreliable
+	"2009"	"2009"	"Non-Injury: Pregnancy with abortive outcome"	"GR113-106"	15	100660926	Unreliable
+	"2009"	"2009"	"Non-Injury: Other complications of pregnancy, childbirth and the puerperium"	"GR113-107"	215	100660926	0.2
+	"2009"	"2009"	"Non-Injury: Certain conditions originating in the perinatal period"	"GR113-108"	102	100660926	0.1
+	"2009"	"2009"	"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities"	"GR113-109"	1285	100660926	1.3
+	"2009"	"2009"	"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"	"GR113-110"	1175	100660926	1.2
+	"2009"	"2009"	"Non-Injury: All other diseases (Residual)"	"GR113-111"	3287	100660926	3.3
+	"2009"	"2009"	"Non-Injury: Complications of medical and surgical care"	"GR113-135"	67	100660926	0.1
+"Total"	"2009"	"2009"			40517	100660926	40.3
+	"2010"	"2010"	"Cut/Pierce"	"GRINJ-001"	505	100909402	0.5
+	"2010"	"2010"	"Drowning"	"GRINJ-002"	1448	100909402	1.4
+	"2010"	"2010"	"Fall"	"GRINJ-003"	398	100909402	0.4
+	"2010"	"2010"	"Fire/Flame"	"GRINJ-004"	485	100909402	0.5
+	"2010"	"2010"	"Hot object/Substance"	"GRINJ-005"	8	100909402	Unreliable
+	"2010"	"2010"	"Firearm"	"GRINJ-006"	6570	100909402	6.5
+	"2010"	"2010"	"Machinery"	"GRINJ-007"	40	100909402	0.0
+	"2010"	"2010"	"Motor Vehicle Traffic"	"GRINJ-008"	8173	100909402	8.1
+	"2010"	"2010"	"Other Pedal cyclist"	"GRINJ-009"	35	100909402	0.0
+	"2010"	"2010"	"Other Pedestrian"	"GRINJ-010"	274	100909402	0.3
+	"2010"	"2010"	"Other land transport"	"GRINJ-011"	348	100909402	0.3
+	"2010"	"2010"	"Other transport"	"GRINJ-012"	124	100909402	0.1
+	"2010"	"2010"	"Natural/Environmental"	"GRINJ-013"	145	100909402	0.1
+	"2010"	"2010"	"Overexertion"	"GRINJ-014"	1	100909402	Unreliable
+	"2010"	"2010"	"Poisoning"	"GRINJ-015"	3998	100909402	4.0
+	"2010"	"2010"	"Struck by or against"	"GRINJ-016"	130	100909402	0.1
+	"2010"	"2010"	"Suffocation"	"GRINJ-017"	2489	100909402	2.5
+	"2010"	"2010"	"Other specified, classifiable Injury"	"GRINJ-018"	330	100909402	0.3
+	"2010"	"2010"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	177	100909402	0.2
+	"2010"	"2010"	"Unspecified Injury"	"GRINJ-020"	579	100909402	0.6
+	"2010"	"2010"	"Non-Injury: Intestinal infections"	"GR113 001-003"	49	100909402	0.0
+	"2010"	"2010"	"Non-Injury: Tuberculosis"	"GR113 005-006"	10	100909402	Unreliable
+	"2010"	"2010"	"Non-Injury: Scarlet fever and erysipelas"	"GR113-008"	1	100909402	Unreliable
+	"2010"	"2010"	"Non-Injury: Meningococcal infection"	"GR113-009"	30	100909402	0.0
+	"2010"	"2010"	"Non-Injury: Septicemia"	"GR113-010"	270	100909402	0.3
+	"2010"	"2010"	"Non-Injury: Arthropod-borne viral encephalitis"	"GR113-013"	2	100909402	Unreliable
+	"2010"	"2010"	"Non-Injury: Viral hepatitis"	"GR113-015"	9	100909402	Unreliable
+	"2010"	"2010"	"Non-Injury: Human immunodeficiency virus (HIV) disease"	"GR113-016"	152	100909402	0.2
+	"2010"	"2010"	"Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae"	"GR113-018"	184	100909402	0.2
+	"2010"	"2010"	"Non-Injury: Malignant neoplasms (Cancers)"	"GR113 020-043"	2866	100909402	2.8
+	"2010"	"2010"	"Non-Injury: In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior"	"GR113-044"	234	100909402	0.2
+	"2010"	"2010"	"Non-Injury: Anemias"	"GR113-045"	164	100909402	0.2
+	"2010"	"2010"	"Non-Injury: Diabetes mellitus"	"GR113-046"	195	100909402	0.2
+	"2010"	"2010"	"Non-Injury: Nutritional Deficiencies"	"GR113 048-049"	15	100909402	Unreliable
+	"2010"	"2010"	"Non-Injury: Meningitis"	"GR113-050"	55	100909402	0.1
+	"2010"	"2010"	"Non-Injury: Parkinsons disease"	"GR113-051"	3	100909402	Unreliable
+	"2010"	"2010"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	1372	100909402	1.4
+	"2010"	"2010"	"Non-Injury: Essential (primary) hypertension and hypertensive renal disease"	"GR113-069"	24	100909402	0.0
+	"2010"	"2010"	"Non-Injury: Cerebrovascular diseases, including stroke"	"GR113-070"	330	100909402	0.3
+	"2010"	"2010"	"Non-Injury: Atherosclerosis"	"GR113-071"	2	100909402	Unreliable
+	"2010"	"2010"	"Non-Injury: Other diseases of the circulatory system"	"GR113 073-074"	53	100909402	0.1
+	"2010"	"2010"	"Non-Injury: Other disorders of circulatory system"	"GR113-075"	53	100909402	0.1
+	"2010"	"2010"	"Non-Injury: Influenza & Pneumonia"	"GR113 077-078"	343	100909402	0.3
+	"2010"	"2010"	"Non-Injury: Other acute lower respiratory infections"	"GR113 079"	19	100909402	Unreliable
+	"2010"	"2010"	"Non-Injury: Chronic lower respiratory diseases"	"GR113 082"	333	100909402	0.3
+	"2010"	"2010"	"Non-Injury: Pneumoconioses and chemical effects"	"GR113-087"	1	100909402	Unreliable
+	"2010"	"2010"	"Non-Injury: Pneumonitis due to solids and liquids"	"GR113-088"	64	100909402	0.1
+	"2010"	"2010"	"Non-Injury: Other diseases of respiratory system"	"GR113-089"	316	100909402	0.3
+	"2010"	"2010"	"Non-Injury: Peptic ulcer"	"GR113-090"	5	100909402	Unreliable
+	"2010"	"2010"	"Non-Injury: Diseases of appendix"	"GR113-091"	17	100909402	Unreliable
+	"2010"	"2010"	"Non-Injury: Hernia"	"GR113-092"	15	100909402	Unreliable
+	"2010"	"2010"	"Non-Injury: Chronic liver disease and cirrhosis"	"GR113 093"	39	100909402	0.0
+	"2010"	"2010"	"Non-Injury: Cholelithiasis and other disorders of gallbladder"	"GR113-096"	7	100909402	Unreliable
+	"2010"	"2010"	"Non-Injury: Nephritis, nephrotic syndrome and nephrosis"	"GR113 097"	103	100909402	0.1
+	"2010"	"2010"	"Non-Injury: Infections of kidney"	"GR113-102"	13	100909402	Unreliable
+	"2010"	"2010"	"Non-Injury: Inflammatory diseases of female pelvic organs"	"GR113-104"	3	100909402	Unreliable
+	"2010"	"2010"	"Non-Injury: Pregnancy with abortive outcome"	"GR113-106"	7	100909402	Unreliable
+	"2010"	"2010"	"Non-Injury: Other complications of pregnancy, childbirth and the puerperium"	"GR113-107"	157	100909402	0.2
+	"2010"	"2010"	"Non-Injury: Certain conditions originating in the perinatal period"	"GR113-108"	90	100909402	0.1
+	"2010"	"2010"	"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities"	"GR113-109"	1217	100909402	1.2
+	"2010"	"2010"	"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"	"GR113-110"	853	100909402	0.8
+	"2010"	"2010"	"Non-Injury: All other diseases (Residual)"	"GR113-111"	3133	100909402	3.1
+	"2010"	"2010"	"Non-Injury: Complications of medical and surgical care"	"GR113-135"	81	100909402	0.1
+"Total"	"2010"	"2010"			39146	100909402	38.8
+	"2011"	"2011"	"Cut/Pierce"	"GRINJ-001"	475	101002444	0.5
+	"2011"	"2011"	"Drowning"	"GRINJ-002"	1321	101002444	1.3
+	"2011"	"2011"	"Fall"	"GRINJ-003"	403	101002444	0.4
+	"2011"	"2011"	"Fire/Flame"	"GRINJ-004"	449	101002444	0.4
+	"2011"	"2011"	"Hot object/Substance"	"GRINJ-005"	3	101002444	Unreliable
+	"2011"	"2011"	"Firearm"	"GRINJ-006"	6671	101002444	6.6
+	"2011"	"2011"	"Machinery"	"GRINJ-007"	58	101002444	0.1
+	"2011"	"2011"	"Motor Vehicle Traffic"	"GRINJ-008"	8043	101002444	8.0
+	"2011"	"2011"	"Other Pedal cyclist"	"GRINJ-009"	37	101002444	0.0
+	"2011"	"2011"	"Other Pedestrian"	"GRINJ-010"	226	101002444	0.2
+	"2011"	"2011"	"Other land transport"	"GRINJ-011"	326	101002444	0.3
+	"2011"	"2011"	"Other transport"	"GRINJ-012"	165	101002444	0.2
+	"2011"	"2011"	"Natural/Environmental"	"GRINJ-013"	184	101002444	0.2
+	"2011"	"2011"	"Overexertion"	"GRINJ-014"	2	101002444	Unreliable
+	"2011"	"2011"	"Poisoning"	"GRINJ-015"	4188	101002444	4.1
+	"2011"	"2011"	"Struck by or against"	"GRINJ-016"	129	101002444	0.1
+	"2011"	"2011"	"Suffocation"	"GRINJ-017"	2588	101002444	2.6
+	"2011"	"2011"	"Other specified, classifiable Injury"	"GRINJ-018"	362	101002444	0.4
+	"2011"	"2011"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	159	101002444	0.2
+	"2011"	"2011"	"Unspecified Injury"	"GRINJ-020"	579	101002444	0.6
+	"2011"	"2011"	"Non-Injury: Intestinal infections"	"GR113 001-003"	44	101002444	0.0
+	"2011"	"2011"	"Non-Injury: Tuberculosis"	"GR113 005-006"	8	101002444	Unreliable
+	"2011"	"2011"	"Non-Injury: Meningococcal infection"	"GR113-009"	20	101002444	0.0
+	"2011"	"2011"	"Non-Injury: Septicemia"	"GR113-010"	264	101002444	0.3
+	"2011"	"2011"	"Non-Injury: Arthropod-borne viral encephalitis"	"GR113-013"	1	101002444	Unreliable
+	"2011"	"2011"	"Non-Injury: Viral hepatitis"	"GR113-015"	4	101002444	Unreliable
+	"2011"	"2011"	"Non-Injury: Human immunodeficiency virus (HIV) disease"	"GR113-016"	135	101002444	0.1
+	"2011"	"2011"	"Non-Injury: Malaria"	"GR113-017"	1	101002444	Unreliable
+	"2011"	"2011"	"Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae"	"GR113-018"	203	101002444	0.2
+	"2011"	"2011"	"Non-Injury: Malignant neoplasms (Cancers)"	"GR113 020-043"	2824	101002444	2.8
+	"2011"	"2011"	"Non-Injury: In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior"	"GR113-044"	214	101002444	0.2
+	"2011"	"2011"	"Non-Injury: Anemias"	"GR113-045"	154	101002444	0.2
+	"2011"	"2011"	"Non-Injury: Diabetes mellitus"	"GR113-046"	199	101002444	0.2
+	"2011"	"2011"	"Non-Injury: Nutritional Deficiencies"	"GR113 048-049"	13	101002444	Unreliable
+	"2011"	"2011"	"Non-Injury: Meningitis"	"GR113-050"	53	101002444	0.1
+	"2011"	"2011"	"Non-Injury: Parkinsons disease"	"GR113-051"	3	101002444	Unreliable
+	"2011"	"2011"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	1366	101002444	1.4
+	"2011"	"2011"	"Non-Injury: Essential (primary) hypertension and hypertensive renal disease"	"GR113-069"	16	101002444	Unreliable
+	"2011"	"2011"	"Non-Injury: Cerebrovascular diseases, including stroke"	"GR113-070"	315	101002444	0.3
+	"2011"	"2011"	"Non-Injury: Atherosclerosis"	"GR113-071"	3	101002444	Unreliable
+	"2011"	"2011"	"Non-Injury: Other diseases of the circulatory system"	"GR113 073-074"	56	101002444	0.1
+	"2011"	"2011"	"Non-Injury: Other disorders of circulatory system"	"GR113-075"	70	101002444	0.1
+	"2011"	"2011"	"Non-Injury: Influenza & Pneumonia"	"GR113 077-078"	450	101002444	0.4
+	"2011"	"2011"	"Non-Injury: Other acute lower respiratory infections"	"GR113 079"	26	101002444	0.0
+	"2011"	"2011"	"Non-Injury: Chronic lower respiratory diseases"	"GR113 082"	359	101002444	0.4
+	"2011"	"2011"	"Non-Injury: Pneumoconioses and chemical effects"	"GR113-087"	1	101002444	Unreliable
+	"2011"	"2011"	"Non-Injury: Pneumonitis due to solids and liquids"	"GR113-088"	69	101002444	0.1
+	"2011"	"2011"	"Non-Injury: Other diseases of respiratory system"	"GR113-089"	292	101002444	0.3
+	"2011"	"2011"	"Non-Injury: Peptic ulcer"	"GR113-090"	15	101002444	Unreliable
+	"2011"	"2011"	"Non-Injury: Diseases of appendix"	"GR113-091"	18	101002444	Unreliable
+	"2011"	"2011"	"Non-Injury: Hernia"	"GR113-092"	4	101002444	Unreliable
+	"2011"	"2011"	"Non-Injury: Chronic liver disease and cirrhosis"	"GR113 093"	39	101002444	0.0
+	"2011"	"2011"	"Non-Injury: Cholelithiasis and other disorders of gallbladder"	"GR113-096"	4	101002444	Unreliable
+	"2011"	"2011"	"Non-Injury: Nephritis, nephrotic syndrome and nephrosis"	"GR113 097"	101	101002444	0.1
+	"2011"	"2011"	"Non-Injury: Infections of kidney"	"GR113-102"	8	101002444	Unreliable
+	"2011"	"2011"	"Non-Injury: Inflammatory diseases of female pelvic organs"	"GR113-104"	4	101002444	Unreliable
+	"2011"	"2011"	"Non-Injury: Pregnancy with abortive outcome"	"GR113-106"	6	101002444	Unreliable
+	"2011"	"2011"	"Non-Injury: Other complications of pregnancy, childbirth and the puerperium"	"GR113-107"	168	101002444	0.2
+	"2011"	"2011"	"Non-Injury: Certain conditions originating in the perinatal period"	"GR113-108"	77	101002444	0.1
+	"2011"	"2011"	"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities"	"GR113-109"	1283	101002444	1.3
+	"2011"	"2011"	"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"	"GR113-110"	906	101002444	0.9
+	"2011"	"2011"	"Non-Injury: All other diseases (Residual)"	"GR113-111"	3069	101002444	3.0
+	"2011"	"2011"	"Non-Injury: Complications of medical and surgical care"	"GR113-135"	81	101002444	0.1
+"Total"	"2011"	"2011"			39314	101002444	38.9
+	"2012"	"2012"	"Cut/Pierce"	"GRINJ-001"	457	101144926	0.5
+	"2012"	"2012"	"Drowning"	"GRINJ-002"	1339	101144926	1.3
+	"2012"	"2012"	"Fall"	"GRINJ-003"	413	101144926	0.4
+	"2012"	"2012"	"Fire/Flame"	"GRINJ-004"	368	101144926	0.4
+	"2012"	"2012"	"Hot object/Substance"	"GRINJ-005"	5	101144926	Unreliable
+	"2012"	"2012"	"Firearm"	"GRINJ-006"	6851	101144926	6.8
+	"2012"	"2012"	"Machinery"	"GRINJ-007"	50	101144926	0.0
+	"2012"	"2012"	"Motor Vehicle Traffic"	"GRINJ-008"	8013	101144926	7.9
+	"2012"	"2012"	"Other Pedal cyclist"	"GRINJ-009"	31	101144926	0.0
+	"2012"	"2012"	"Other Pedestrian"	"GRINJ-010"	251	101144926	0.2
+	"2012"	"2012"	"Other land transport"	"GRINJ-011"	313	101144926	0.3
+	"2012"	"2012"	"Other transport"	"GRINJ-012"	111	101144926	0.1
+	"2012"	"2012"	"Natural/Environmental"	"GRINJ-013"	113	101144926	0.1
+	"2012"	"2012"	"Poisoning"	"GRINJ-015"	3934	101144926	3.9
+	"2012"	"2012"	"Struck by or against"	"GRINJ-016"	137	101144926	0.1
+	"2012"	"2012"	"Suffocation"	"GRINJ-017"	2566	101144926	2.5
+	"2012"	"2012"	"Other specified, classifiable Injury"	"GRINJ-018"	298	101144926	0.3
+	"2012"	"2012"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	177	101144926	0.2
+	"2012"	"2012"	"Unspecified Injury"	"GRINJ-020"	531	101144926	0.5
+	"2012"	"2012"	"Non-Injury: Intestinal infections"	"GR113 001-003"	49	101144926	0.0
+	"2012"	"2012"	"Non-Injury: Tuberculosis"	"GR113 005-006"	5	101144926	Unreliable
+	"2012"	"2012"	"Non-Injury: Whooping cough"	"GR113-007"	2	101144926	Unreliable
+	"2012"	"2012"	"Non-Injury: Meningococcal infection"	"GR113-009"	15	101144926	Unreliable
+	"2012"	"2012"	"Non-Injury: Septicemia"	"GR113-010"	234	101144926	0.2
+	"2012"	"2012"	"Non-Injury: Arthropod-borne viral encephalitis"	"GR113-013"	1	101144926	Unreliable
+	"2012"	"2012"	"Non-Injury: Viral hepatitis"	"GR113-015"	4	101144926	Unreliable
+	"2012"	"2012"	"Non-Injury: Human immunodeficiency virus (HIV) disease"	"GR113-016"	121	101144926	0.1
+	"2012"	"2012"	"Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae"	"GR113-018"	216	101144926	0.2
+	"2012"	"2012"	"Non-Injury: Malignant neoplasms (Cancers)"	"GR113 020-043"	2878	101144926	2.8
+	"2012"	"2012"	"Non-Injury: In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior"	"GR113-044"	224	101144926	0.2
+	"2012"	"2012"	"Non-Injury: Anemias"	"GR113-045"	132	101144926	0.1
+	"2012"	"2012"	"Non-Injury: Diabetes mellitus"	"GR113-046"	236	101144926	0.2
+	"2012"	"2012"	"Non-Injury: Nutritional Deficiencies"	"GR113 048-049"	5	101144926	Unreliable
+	"2012"	"2012"	"Non-Injury: Meningitis"	"GR113-050"	37	101144926	0.0
+	"2012"	"2012"	"Non-Injury: Parkinsons disease"	"GR113-051"	1	101144926	Unreliable
+	"2012"	"2012"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	1285	101144926	1.3
+	"2012"	"2012"	"Non-Injury: Essential (primary) hypertension and hypertensive renal disease"	"GR113-069"	18	101144926	Unreliable
+	"2012"	"2012"	"Non-Injury: Cerebrovascular diseases, including stroke"	"GR113-070"	324	101144926	0.3
+	"2012"	"2012"	"Non-Injury: Atherosclerosis"	"GR113-071"	2	101144926	Unreliable
+	"2012"	"2012"	"Non-Injury: Other diseases of the circulatory system"	"GR113 073-074"	58	101144926	0.1
+	"2012"	"2012"	"Non-Injury: Other disorders of circulatory system"	"GR113-075"	54	101144926	0.1
+	"2012"	"2012"	"Non-Injury: Influenza & Pneumonia"	"GR113 077-078"	325	101144926	0.3
+	"2012"	"2012"	"Non-Injury: Other acute lower respiratory infections"	"GR113 079"	28	101144926	0.0
+	"2012"	"2012"	"Non-Injury: Chronic lower respiratory diseases"	"GR113 082"	313	101144926	0.3
+	"2012"	"2012"	"Non-Injury: Pneumonitis due to solids and liquids"	"GR113-088"	54	101144926	0.1
+	"2012"	"2012"	"Non-Injury: Other diseases of respiratory system"	"GR113-089"	268	101144926	0.3
+	"2012"	"2012"	"Non-Injury: Peptic ulcer"	"GR113-090"	7	101144926	Unreliable
+	"2012"	"2012"	"Non-Injury: Diseases of appendix"	"GR113-091"	14	101144926	Unreliable
+	"2012"	"2012"	"Non-Injury: Hernia"	"GR113-092"	14	101144926	Unreliable
+	"2012"	"2012"	"Non-Injury: Chronic liver disease and cirrhosis"	"GR113 093"	34	101144926	0.0
+	"2012"	"2012"	"Non-Injury: Cholelithiasis and other disorders of gallbladder"	"GR113-096"	8	101144926	Unreliable
+	"2012"	"2012"	"Non-Injury: Nephritis, nephrotic syndrome and nephrosis"	"GR113 097"	87	101144926	0.1
+	"2012"	"2012"	"Non-Injury: Infections of kidney"	"GR113-102"	2	101144926	Unreliable
+	"2012"	"2012"	"Non-Injury: Inflammatory diseases of female pelvic organs"	"GR113-104"	1	101144926	Unreliable
+	"2012"	"2012"	"Non-Injury: Pregnancy with abortive outcome"	"GR113-106"	5	101144926	Unreliable
+	"2012"	"2012"	"Non-Injury: Other complications of pregnancy, childbirth and the puerperium"	"GR113-107"	165	101144926	0.2
+	"2012"	"2012"	"Non-Injury: Certain conditions originating in the perinatal period"	"GR113-108"	90	101144926	0.1
+	"2012"	"2012"	"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities"	"GR113-109"	1251	101144926	1.2
+	"2012"	"2012"	"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"	"GR113-110"	912	101144926	0.9
+	"2012"	"2012"	"Non-Injury: All other diseases (Residual)"	"GR113-111"	3101	101144926	3.1
+	"2012"	"2012"	"Non-Injury: Complications of medical and surgical care"	"GR113-135"	62	101144926	0.1
+"Total"	"2012"	"2012"			38600	101144926	38.2
+	"2013"	"2013"	"Cut/Pierce"	"GRINJ-001"	409	101101742	0.4
+	"2013"	"2013"	"Drowning"	"GRINJ-002"	1205	101101742	1.2
+	"2013"	"2013"	"Fall"	"GRINJ-003"	412	101101742	0.4
+	"2013"	"2013"	"Fire/Flame"	"GRINJ-004"	456	101101742	0.5
+	"2013"	"2013"	"Hot object/Substance"	"GRINJ-005"	3	101101742	Unreliable
+	"2013"	"2013"	"Firearm"	"GRINJ-006"	6575	101101742	6.5
+	"2013"	"2013"	"Machinery"	"GRINJ-007"	46	101101742	0.0
+	"2013"	"2013"	"Motor Vehicle Traffic"	"GRINJ-008"	7593	101101742	7.5
+	"2013"	"2013"	"Other Pedal cyclist"	"GRINJ-009"	43	101101742	0.0
+	"2013"	"2013"	"Other Pedestrian"	"GRINJ-010"	247	101101742	0.2
+	"2013"	"2013"	"Other land transport"	"GRINJ-011"	329	101101742	0.3
+	"2013"	"2013"	"Other transport"	"GRINJ-012"	124	101101742	0.1
+	"2013"	"2013"	"Natural/Environmental"	"GRINJ-013"	118	101101742	0.1
+	"2013"	"2013"	"Overexertion"	"GRINJ-014"	1	101101742	Unreliable
+	"2013"	"2013"	"Poisoning"	"GRINJ-015"	4056	101101742	4.0
+	"2013"	"2013"	"Struck by or against"	"GRINJ-016"	126	101101742	0.1
+	"2013"	"2013"	"Suffocation"	"GRINJ-017"	2587	101101742	2.6
+	"2013"	"2013"	"Other specified, classifiable Injury"	"GRINJ-018"	315	101101742	0.3
+	"2013"	"2013"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	167	101101742	0.2
+	"2013"	"2013"	"Unspecified Injury"	"GRINJ-020"	468	101101742	0.5
+	"2013"	"2013"	"Non-Injury: Intestinal infections"	"GR113 001-003"	46	101101742	0.0
+	"2013"	"2013"	"Non-Injury: Tuberculosis"	"GR113 005-006"	10	101101742	Unreliable
+	"2013"	"2013"	"Non-Injury: Meningococcal infection"	"GR113-009"	15	101101742	Unreliable
+	"2013"	"2013"	"Non-Injury: Septicemia"	"GR113-010"	246	101101742	0.2
+	"2013"	"2013"	"Non-Injury: Arthropod-borne viral encephalitis"	"GR113-013"	1	101101742	Unreliable
+	"2013"	"2013"	"Non-Injury: Viral hepatitis"	"GR113-015"	8	101101742	Unreliable
+	"2013"	"2013"	"Non-Injury: Human immunodeficiency virus (HIV) disease"	"GR113-016"	111	101101742	0.1
+	"2013"	"2013"	"Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae"	"GR113-018"	202	101101742	0.2
+	"2013"	"2013"	"Non-Injury: Malignant neoplasms (Cancers)"	"GR113 020-043"	2719	101101742	2.7
+	"2013"	"2013"	"Non-Injury: In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior"	"GR113-044"	192	101101742	0.2
+	"2013"	"2013"	"Non-Injury: Anemias"	"GR113-045"	130	101101742	0.1
+	"2013"	"2013"	"Non-Injury: Diabetes mellitus"	"GR113-046"	221	101101742	0.2
+	"2013"	"2013"	"Non-Injury: Nutritional Deficiencies"	"GR113 048-049"	13	101101742	Unreliable
+	"2013"	"2013"	"Non-Injury: Meningitis"	"GR113-050"	55	101101742	0.1
+	"2013"	"2013"	"Non-Injury: Parkinsons disease"	"GR113-051"	3	101101742	Unreliable
+	"2013"	"2013"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	1283	101101742	1.3
+	"2013"	"2013"	"Non-Injury: Essential (primary) hypertension and hypertensive renal disease"	"GR113-069"	25	101101742	0.0
+	"2013"	"2013"	"Non-Injury: Cerebrovascular diseases, including stroke"	"GR113-070"	280	101101742	0.3
+	"2013"	"2013"	"Non-Injury: Atherosclerosis"	"GR113-071"	1	101101742	Unreliable
+	"2013"	"2013"	"Non-Injury: Other diseases of the circulatory system"	"GR113 073-074"	64	101101742	0.1
+	"2013"	"2013"	"Non-Injury: Other disorders of circulatory system"	"GR113-075"	54	101101742	0.1
+	"2013"	"2013"	"Non-Injury: Influenza & Pneumonia"	"GR113 077-078"	427	101101742	0.4
+	"2013"	"2013"	"Non-Injury: Other acute lower respiratory infections"	"GR113 079"	14	101101742	Unreliable
+	"2013"	"2013"	"Non-Injury: Chronic lower respiratory diseases"	"GR113 082"	374	101101742	0.4
+	"2013"	"2013"	"Non-Injury: Pneumoconioses and chemical effects"	"GR113-087"	2	101101742	Unreliable
+	"2013"	"2013"	"Non-Injury: Pneumonitis due to solids and liquids"	"GR113-088"	48	101101742	0.0
+	"2013"	"2013"	"Non-Injury: Other diseases of respiratory system"	"GR113-089"	300	101101742	0.3
+	"2013"	"2013"	"Non-Injury: Peptic ulcer"	"GR113-090"	7	101101742	Unreliable
+	"2013"	"2013"	"Non-Injury: Diseases of appendix"	"GR113-091"	17	101101742	Unreliable
+	"2013"	"2013"	"Non-Injury: Hernia"	"GR113-092"	10	101101742	Unreliable
+	"2013"	"2013"	"Non-Injury: Chronic liver disease and cirrhosis"	"GR113 093"	35	101101742	0.0
+	"2013"	"2013"	"Non-Injury: Cholelithiasis and other disorders of gallbladder"	"GR113-096"	4	101101742	Unreliable
+	"2013"	"2013"	"Non-Injury: Nephritis, nephrotic syndrome and nephrosis"	"GR113 097"	80	101101742	0.1
+	"2013"	"2013"	"Non-Injury: Infections of kidney"	"GR113-102"	2	101101742	Unreliable
+	"2013"	"2013"	"Non-Injury: Inflammatory diseases of female pelvic organs"	"GR113-104"	1	101101742	Unreliable
+	"2013"	"2013"	"Non-Injury: Pregnancy with abortive outcome"	"GR113-106"	7	101101742	Unreliable
+	"2013"	"2013"	"Non-Injury: Other complications of pregnancy, childbirth and the puerperium"	"GR113-107"	171	101101742	0.2
+	"2013"	"2013"	"Non-Injury: Certain conditions originating in the perinatal period"	"GR113-108"	101	101101742	0.1
+	"2013"	"2013"	"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities"	"GR113-109"	1178	101101742	1.2
+	"2013"	"2013"	"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"	"GR113-110"	951	101101742	0.9
+	"2013"	"2013"	"Non-Injury: All other diseases (Residual)"	"GR113-111"	3128	101101742	3.1
+	"2013"	"2013"	"Non-Injury: Complications of medical and surgical care"	"GR113-135"	78	101101742	0.1
+"Total"	"2013"	"2013"			37894	101101742	37.5
+	"2014"	"2014"	"Cut/Pierce"	"GRINJ-001"	397	101099426	0.4
+	"2014"	"2014"	"Drowning"	"GRINJ-002"	1210	101099426	1.2
+	"2014"	"2014"	"Fall"	"GRINJ-003"	403	101099426	0.4
+	"2014"	"2014"	"Fire/Flame"	"GRINJ-004"	406	101099426	0.4
+	"2014"	"2014"	"Hot object/Substance"	"GRINJ-005"	5	101099426	Unreliable
+	"2014"	"2014"	"Firearm"	"GRINJ-006"	6592	101099426	6.5
+	"2014"	"2014"	"Machinery"	"GRINJ-007"	69	101099426	0.1
+	"2014"	"2014"	"Motor Vehicle Traffic"	"GRINJ-008"	7553	101099426	7.5
+	"2014"	"2014"	"Other Pedal cyclist"	"GRINJ-009"	21	101099426	0.0
+	"2014"	"2014"	"Other Pedestrian"	"GRINJ-010"	254	101099426	0.3
+	"2014"	"2014"	"Other land transport"	"GRINJ-011"	315	101099426	0.3
+	"2014"	"2014"	"Other transport"	"GRINJ-012"	117	101099426	0.1
+	"2014"	"2014"	"Natural/Environmental"	"GRINJ-013"	126	101099426	0.1
+	"2014"	"2014"	"Poisoning"	"GRINJ-015"	4212	101099426	4.2
+	"2014"	"2014"	"Struck by or against"	"GRINJ-016"	122	101099426	0.1
+	"2014"	"2014"	"Suffocation"	"GRINJ-017"	2662	101099426	2.6
+	"2014"	"2014"	"Other specified, classifiable Injury"	"GRINJ-018"	340	101099426	0.3
+	"2014"	"2014"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	152	101099426	0.2
+	"2014"	"2014"	"Unspecified Injury"	"GRINJ-020"	461	101099426	0.5
+	"2014"	"2014"	"Non-Injury: Intestinal infections"	"GR113 001-003"	58	101099426	0.1
+	"2014"	"2014"	"Non-Injury: Tuberculosis"	"GR113 005-006"	4	101099426	Unreliable
+	"2014"	"2014"	"Non-Injury: Whooping cough"	"GR113-007"	2	101099426	Unreliable
+	"2014"	"2014"	"Non-Injury: Meningococcal infection"	"GR113-009"	12	101099426	Unreliable
+	"2014"	"2014"	"Non-Injury: Septicemia"	"GR113-010"	242	101099426	0.2
+	"2014"	"2014"	"Non-Injury: Syphilis"	"GR113-011"	1	101099426	Unreliable
+	"2014"	"2014"	"Non-Injury: Viral hepatitis"	"GR113-015"	4	101099426	Unreliable
+	"2014"	"2014"	"Non-Injury: Human immunodeficiency virus (HIV) disease"	"GR113-016"	117	101099426	0.1
+	"2014"	"2014"	"Non-Injury: Malaria"	"GR113-017"	1	101099426	Unreliable
+	"2014"	"2014"	"Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae"	"GR113-018"	213	101099426	0.2
+	"2014"	"2014"	"Non-Injury: Malignant neoplasms (Cancers)"	"GR113 020-043"	2742	101099426	2.7
+	"2014"	"2014"	"Non-Injury: In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior"	"GR113-044"	188	101099426	0.2
+	"2014"	"2014"	"Non-Injury: Anemias"	"GR113-045"	134	101099426	0.1
+	"2014"	"2014"	"Non-Injury: Diabetes mellitus"	"GR113-046"	211	101099426	0.2
+	"2014"	"2014"	"Non-Injury: Nutritional Deficiencies"	"GR113 048-049"	17	101099426	Unreliable
+	"2014"	"2014"	"Non-Injury: Meningitis"	"GR113-050"	46	101099426	0.0
+	"2014"	"2014"	"Non-Injury: Parkinsons disease"	"GR113-051"	3	101099426	Unreliable
+	"2014"	"2014"	"Non-Injury: Alzheimers disease"	"GR113-052"	1	101099426	Unreliable
+	"2014"	"2014"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	1293	101099426	1.3
+	"2014"	"2014"	"Non-Injury: Essential (primary) hypertension and hypertensive renal disease"	"GR113-069"	21	101099426	0.0
+	"2014"	"2014"	"Non-Injury: Cerebrovascular diseases, including stroke"	"GR113-070"	298	101099426	0.3
+	"2014"	"2014"	"Non-Injury: Atherosclerosis"	"GR113-071"	4	101099426	Unreliable
+	"2014"	"2014"	"Non-Injury: Other diseases of the circulatory system"	"GR113 073-074"	57	101099426	0.1
+	"2014"	"2014"	"Non-Injury: Other disorders of circulatory system"	"GR113-075"	55	101099426	0.1
+	"2014"	"2014"	"Non-Injury: Influenza & Pneumonia"	"GR113 077-078"	406	101099426	0.4
+	"2014"	"2014"	"Non-Injury: Other acute lower respiratory infections"	"GR113 079"	26	101099426	0.0
+	"2014"	"2014"	"Non-Injury: Chronic lower respiratory diseases"	"GR113 082"	370	101099426	0.4
+	"2014"	"2014"	"Non-Injury: Pneumoconioses and chemical effects"	"GR113-087"	2	101099426	Unreliable
+	"2014"	"2014"	"Non-Injury: Pneumonitis due to solids and liquids"	"GR113-088"	59	101099426	0.1
+	"2014"	"2014"	"Non-Injury: Other diseases of respiratory system"	"GR113-089"	302	101099426	0.3
+	"2014"	"2014"	"Non-Injury: Peptic ulcer"	"GR113-090"	8	101099426	Unreliable
+	"2014"	"2014"	"Non-Injury: Diseases of appendix"	"GR113-091"	21	101099426	0.0
+	"2014"	"2014"	"Non-Injury: Hernia"	"GR113-092"	9	101099426	Unreliable
+	"2014"	"2014"	"Non-Injury: Chronic liver disease and cirrhosis"	"GR113 093"	30	101099426	0.0
+	"2014"	"2014"	"Non-Injury: Cholelithiasis and other disorders of gallbladder"	"GR113-096"	6	101099426	Unreliable
+	"2014"	"2014"	"Non-Injury: Nephritis, nephrotic syndrome and nephrosis"	"GR113 097"	93	101099426	0.1
+	"2014"	"2014"	"Non-Injury: Infections of kidney"	"GR113-102"	6	101099426	Unreliable
+	"2014"	"2014"	"Non-Injury: Pregnancy with abortive outcome"	"GR113-106"	3	101099426	Unreliable
+	"2014"	"2014"	"Non-Injury: Other complications of pregnancy, childbirth and the puerperium"	"GR113-107"	162	101099426	0.2
+	"2014"	"2014"	"Non-Injury: Certain conditions originating in the perinatal period"	"GR113-108"	84	101099426	0.1
+	"2014"	"2014"	"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities"	"GR113-109"	1124	101099426	1.1
+	"2014"	"2014"	"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"	"GR113-110"	835	101099426	0.8
+	"2014"	"2014"	"Non-Injury: All other diseases (Residual)"	"GR113-111"	3120	101099426	3.1
+	"2014"	"2014"	"Non-Injury: Complications of medical and surgical care"	"GR113-135"	64	101099426	0.1
+"Total"	"2014"	"2014"			37871	101099426	37.5
+	"2015"	"2015"	"Cut/Pierce"	"GRINJ-001"	371	100886965	0.4
+	"2015"	"2015"	"Drowning"	"GRINJ-002"	1258	100886965	1.2
+	"2015"	"2015"	"Fall"	"GRINJ-003"	474	100886965	0.5
+	"2015"	"2015"	"Fire/Flame"	"GRINJ-004"	353	100886965	0.3
+	"2015"	"2015"	"Hot object/Substance"	"GRINJ-005"	4	100886965	Unreliable
+	"2015"	"2015"	"Firearm"	"GRINJ-006"	7317	100886965	7.3
+	"2015"	"2015"	"Machinery"	"GRINJ-007"	40	100886965	0.0
+	"2015"	"2015"	"Motor Vehicle Traffic"	"GRINJ-008"	7882	100886965	7.8
+	"2015"	"2015"	"Other Pedal cyclist"	"GRINJ-009"	41	100886965	0.0
+	"2015"	"2015"	"Other Pedestrian"	"GRINJ-010"	224	100886965	0.2
+	"2015"	"2015"	"Other land transport"	"GRINJ-011"	372	100886965	0.4
+	"2015"	"2015"	"Other transport"	"GRINJ-012"	107	100886965	0.1
+	"2015"	"2015"	"Natural/Environmental"	"GRINJ-013"	100	100886965	0.1
+	"2015"	"2015"	"Poisoning"	"GRINJ-015"	4739	100886965	4.7
+	"2015"	"2015"	"Struck by or against"	"GRINJ-016"	114	100886965	0.1
+	"2015"	"2015"	"Suffocation"	"GRINJ-017"	2780	100886965	2.8
+	"2015"	"2015"	"Other specified, classifiable Injury"	"GRINJ-018"	324	100886965	0.3
+	"2015"	"2015"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	158	100886965	0.2
+	"2015"	"2015"	"Unspecified Injury"	"GRINJ-020"	564	100886965	0.6
+	"2015"	"2015"	"Non-Injury: Intestinal infections"	"GR113 001-003"	57	100886965	0.1
+	"2015"	"2015"	"Non-Injury: Tuberculosis"	"GR113 005-006"	5	100886965	Unreliable
+	"2015"	"2015"	"Non-Injury: Meningococcal infection"	"GR113-009"	13	100886965	Unreliable
+	"2015"	"2015"	"Non-Injury: Septicemia"	"GR113-010"	248	100886965	0.2
+	"2015"	"2015"	"Non-Injury: Viral hepatitis"	"GR113-015"	5	100886965	Unreliable
+	"2015"	"2015"	"Non-Injury: Human immunodeficiency virus (HIV) disease"	"GR113-016"	103	100886965	0.1
+	"2015"	"2015"	"Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae"	"GR113-018"	235	100886965	0.2
+	"2015"	"2015"	"Non-Injury: Malignant neoplasms (Cancers)"	"GR113 020-043"	2688	100886965	2.7
+	"2015"	"2015"	"Non-Injury: In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior"	"GR113-044"	189	100886965	0.2
+	"2015"	"2015"	"Non-Injury: Anemias"	"GR113-045"	142	100886965	0.1
+	"2015"	"2015"	"Non-Injury: Diabetes mellitus"	"GR113-046"	224	100886965	0.2
+	"2015"	"2015"	"Non-Injury: Nutritional Deficiencies"	"GR113 048-049"	15	100886965	Unreliable
+	"2015"	"2015"	"Non-Injury: Meningitis"	"GR113-050"	42	100886965	0.0
+	"2015"	"2015"	"Non-Injury: Parkinsons disease"	"GR113-051"	3	100886965	Unreliable
+	"2015"	"2015"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	1354	100886965	1.3
+	"2015"	"2015"	"Non-Injury: Essential (primary) hypertension and hypertensive renal disease"	"GR113-069"	19	100886965	Unreliable
+	"2015"	"2015"	"Non-Injury: Cerebrovascular diseases, including stroke"	"GR113-070"	292	100886965	0.3
+	"2015"	"2015"	"Non-Injury: Atherosclerosis"	"GR113-071"	1	100886965	Unreliable
+	"2015"	"2015"	"Non-Injury: Other diseases of the circulatory system"	"GR113 073-074"	56	100886965	0.1
+	"2015"	"2015"	"Non-Injury: Other disorders of circulatory system"	"GR113-075"	50	100886965	0.0
+	"2015"	"2015"	"Non-Injury: Influenza & Pneumonia"	"GR113 077-078"	355	100886965	0.4
+	"2015"	"2015"	"Non-Injury: Other acute lower respiratory infections"	"GR113 079"	24	100886965	0.0
+	"2015"	"2015"	"Non-Injury: Chronic lower respiratory diseases"	"GR113 082"	415	100886965	0.4
+	"2015"	"2015"	"Non-Injury: Pneumoconioses and chemical effects"	"GR113-087"	2	100886965	Unreliable
+	"2015"	"2015"	"Non-Injury: Pneumonitis due to solids and liquids"	"GR113-088"	59	100886965	0.1
+	"2015"	"2015"	"Non-Injury: Other diseases of respiratory system"	"GR113-089"	285	100886965	0.3
+	"2015"	"2015"	"Non-Injury: Peptic ulcer"	"GR113-090"	8	100886965	Unreliable
+	"2015"	"2015"	"Non-Injury: Diseases of appendix"	"GR113-091"	18	100886965	Unreliable
+	"2015"	"2015"	"Non-Injury: Hernia"	"GR113-092"	8	100886965	Unreliable
+	"2015"	"2015"	"Non-Injury: Chronic liver disease and cirrhosis"	"GR113 093"	31	100886965	0.0
+	"2015"	"2015"	"Non-Injury: Cholelithiasis and other disorders of gallbladder"	"GR113-096"	5	100886965	Unreliable
+	"2015"	"2015"	"Non-Injury: Nephritis, nephrotic syndrome and nephrosis"	"GR113 097"	90	100886965	0.1
+	"2015"	"2015"	"Non-Injury: Infections of kidney"	"GR113-102"	3	100886965	Unreliable
+	"2015"	"2015"	"Non-Injury: Inflammatory diseases of female pelvic organs"	"GR113-104"	1	100886965	Unreliable
+	"2015"	"2015"	"Non-Injury: Pregnancy with abortive outcome"	"GR113-106"	4	100886965	Unreliable
+	"2015"	"2015"	"Non-Injury: Other complications of pregnancy, childbirth and the puerperium"	"GR113-107"	159	100886965	0.2
+	"2015"	"2015"	"Non-Injury: Certain conditions originating in the perinatal period"	"GR113-108"	82	100886965	0.1
+	"2015"	"2015"	"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities"	"GR113-109"	1158	100886965	1.1
+	"2015"	"2015"	"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"	"GR113-110"	919	100886965	0.9
+	"2015"	"2015"	"Non-Injury: All other diseases (Residual)"	"GR113-111"	3206	100886965	3.2
+	"2015"	"2015"	"Non-Injury: Complications of medical and surgical care"	"GR113-135"	75	100886965	0.1
+"Total"	"2015"	"2015"			39870	100886965	39.5
+	"2016"	"2016"	"Cut/Pierce"	"GRINJ-001"	445	100515951	0.4
+	"2016"	"2016"	"Drowning"	"GRINJ-002"	1346	100515951	1.3
+	"2016"	"2016"	"Fall"	"GRINJ-003"	450	100515951	0.4
+	"2016"	"2016"	"Fire/Flame"	"GRINJ-004"	411	100515951	0.4
+	"2016"	"2016"	"Hot object/Substance"	"GRINJ-005"	10	100515951	Unreliable
+	"2016"	"2016"	"Firearm"	"GRINJ-006"	7981	100515951	7.9
+	"2016"	"2016"	"Machinery"	"GRINJ-007"	47	100515951	0.0
+	"2016"	"2016"	"Motor Vehicle Traffic"	"GRINJ-008"	8210	100515951	8.2
+	"2016"	"2016"	"Other Pedal cyclist"	"GRINJ-009"	33	100515951	0.0
+	"2016"	"2016"	"Other Pedestrian"	"GRINJ-010"	221	100515951	0.2
+	"2016"	"2016"	"Other land transport"	"GRINJ-011"	335	100515951	0.3
+	"2016"	"2016"	"Other transport"	"GRINJ-012"	127	100515951	0.1
+	"2016"	"2016"	"Natural/Environmental"	"GRINJ-013"	129	100515951	0.1
+	"2016"	"2016"	"Overexertion"	"GRINJ-014"	1	100515951	Unreliable
+	"2016"	"2016"	"Poisoning"	"GRINJ-015"	5879	100515951	5.8
+	"2016"	"2016"	"Struck by or against"	"GRINJ-016"	108	100515951	0.1
+	"2016"	"2016"	"Suffocation"	"GRINJ-017"	2799	100515951	2.8
+	"2016"	"2016"	"Other specified, classifiable Injury"	"GRINJ-018"	325	100515951	0.3
+	"2016"	"2016"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	154	100515951	0.2
+	"2016"	"2016"	"Unspecified Injury"	"GRINJ-020"	444	100515951	0.4
+	"2016"	"2016"	"Non-Injury: Intestinal infections"	"GR113 001-003"	47	100515951	0.0
+	"2016"	"2016"	"Non-Injury: Tuberculosis"	"GR113 005-006"	4	100515951	Unreliable
+	"2016"	"2016"	"Non-Injury: Scarlet fever and erysipelas"	"GR113-008"	1	100515951	Unreliable
+	"2016"	"2016"	"Non-Injury: Meningococcal infection"	"GR113-009"	8	100515951	Unreliable
+	"2016"	"2016"	"Non-Injury: Septicemia"	"GR113-010"	284	100515951	0.3
+	"2016"	"2016"	"Non-Injury: Viral hepatitis"	"GR113-015"	3	100515951	Unreliable
+	"2016"	"2016"	"Non-Injury: Human immunodeficiency virus (HIV) disease"	"GR113-016"	69	100515951	0.1
+	"2016"	"2016"	"Non-Injury: Malaria"	"GR113-017"	1	100515951	Unreliable
+	"2016"	"2016"	"Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae"	"GR113-018"	276	100515951	0.3
+	"2016"	"2016"	"Non-Injury: Malignant neoplasms (Cancers)"	"GR113 020-043"	2688	100515951	2.7
+	"2016"	"2016"	"Non-Injury: In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior"	"GR113-044"	178	100515951	0.2
+	"2016"	"2016"	"Non-Injury: Anemias"	"GR113-045"	122	100515951	0.1
+	"2016"	"2016"	"Non-Injury: Diabetes mellitus"	"GR113-046"	245	100515951	0.2
+	"2016"	"2016"	"Non-Injury: Nutritional Deficiencies"	"GR113 048-049"	14	100515951	Unreliable
+	"2016"	"2016"	"Non-Injury: Meningitis"	"GR113-050"	40	100515951	0.0
+	"2016"	"2016"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	1255	100515951	1.2
+	"2016"	"2016"	"Non-Injury: Essential (primary) hypertension and hypertensive renal disease"	"GR113-069"	23	100515951	0.0
+	"2016"	"2016"	"Non-Injury: Cerebrovascular diseases, including stroke"	"GR113-070"	291	100515951	0.3
+	"2016"	"2016"	"Non-Injury: Atherosclerosis"	"GR113-071"	2	100515951	Unreliable
+	"2016"	"2016"	"Non-Injury: Other diseases of the circulatory system"	"GR113 073-074"	56	100515951	0.1
+	"2016"	"2016"	"Non-Injury: Other disorders of circulatory system"	"GR113-075"	64	100515951	0.1
+	"2016"	"2016"	"Non-Injury: Influenza & Pneumonia"	"GR113 077-078"	379	100515951	0.4
+	"2016"	"2016"	"Non-Injury: Other acute lower respiratory infections"	"GR113 079"	22	100515951	0.0
+	"2016"	"2016"	"Non-Injury: Chronic lower respiratory diseases"	"GR113 082"	400	100515951	0.4
+	"2016"	"2016"	"Non-Injury: Pneumonitis due to solids and liquids"	"GR113-088"	51	100515951	0.1
+	"2016"	"2016"	"Non-Injury: Other diseases of respiratory system"	"GR113-089"	289	100515951	0.3
+	"2016"	"2016"	"Non-Injury: Peptic ulcer"	"GR113-090"	5	100515951	Unreliable
+	"2016"	"2016"	"Non-Injury: Diseases of appendix"	"GR113-091"	18	100515951	Unreliable
+	"2016"	"2016"	"Non-Injury: Hernia"	"GR113-092"	7	100515951	Unreliable
+	"2016"	"2016"	"Non-Injury: Chronic liver disease and cirrhosis"	"GR113 093"	45	100515951	0.0
+	"2016"	"2016"	"Non-Injury: Cholelithiasis and other disorders of gallbladder"	"GR113-096"	12	100515951	Unreliable
+	"2016"	"2016"	"Non-Injury: Nephritis, nephrotic syndrome and nephrosis"	"GR113 097"	86	100515951	0.1
+	"2016"	"2016"	"Non-Injury: Infections of kidney"	"GR113-102"	4	100515951	Unreliable
+	"2016"	"2016"	"Non-Injury: Inflammatory diseases of female pelvic organs"	"GR113-104"	1	100515951	Unreliable
+	"2016"	"2016"	"Non-Injury: Pregnancy with abortive outcome"	"GR113-106"	2	100515951	Unreliable
+	"2016"	"2016"	"Non-Injury: Other complications of pregnancy, childbirth and the puerperium"	"GR113-107"	185	100515951	0.2
+	"2016"	"2016"	"Non-Injury: Certain conditions originating in the perinatal period"	"GR113-108"	99	100515951	0.1
+	"2016"	"2016"	"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities"	"GR113-109"	1170	100515951	1.2
+	"2016"	"2016"	"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"	"GR113-110"	979	100515951	1.0
+	"2016"	"2016"	"Non-Injury: All other diseases (Residual)"	"GR113-111"	3177	100515951	3.2
+	"2016"	"2016"	"Non-Injury: Complications of medical and surgical care"	"GR113-135"	66	100515951	0.1
+"Total"	"2016"	"2016"			42123	100515951	41.9
+	"2017"	"2017"	"Cut/Pierce"	"GRINJ-001"	349	100332552	0.3
+	"2017"	"2017"	"Drowning"	"GRINJ-002"	1268	100332552	1.3
+	"2017"	"2017"	"Fall"	"GRINJ-003"	461	100332552	0.5
+	"2017"	"2017"	"Fire/Flame"	"GRINJ-004"	408	100332552	0.4
+	"2017"	"2017"	"Hot object/Substance"	"GRINJ-005"	9	100332552	Unreliable
+	"2017"	"2017"	"Firearm"	"GRINJ-006"	8174	100332552	8.1
+	"2017"	"2017"	"Machinery"	"GRINJ-007"	54	100332552	0.1
+	"2017"	"2017"	"Motor Vehicle Traffic"	"GRINJ-008"	7814	100332552	7.8
+	"2017"	"2017"	"Other Pedal cyclist"	"GRINJ-009"	36	100332552	0.0
+	"2017"	"2017"	"Other Pedestrian"	"GRINJ-010"	209	100332552	0.2
+	"2017"	"2017"	"Other land transport"	"GRINJ-011"	351	100332552	0.3
+	"2017"	"2017"	"Other transport"	"GRINJ-012"	126	100332552	0.1
+	"2017"	"2017"	"Natural/Environmental"	"GRINJ-013"	114	100332552	0.1
+	"2017"	"2017"	"Poisoning"	"GRINJ-015"	5936	100332552	5.9
+	"2017"	"2017"	"Struck by or against"	"GRINJ-016"	97	100332552	0.1
+	"2017"	"2017"	"Suffocation"	"GRINJ-017"	3033	100332552	3.0
+	"2017"	"2017"	"Other specified, classifiable Injury"	"GRINJ-018"	322	100332552	0.3
+	"2017"	"2017"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	162	100332552	0.2
+	"2017"	"2017"	"Unspecified Injury"	"GRINJ-020"	422	100332552	0.4
+	"2017"	"2017"	"Non-Injury: Intestinal infections"	"GR113 001-003"	46	100332552	0.0
+	"2017"	"2017"	"Non-Injury: Tuberculosis"	"GR113 005-006"	4	100332552	Unreliable
+	"2017"	"2017"	"Non-Injury: Meningococcal infection"	"GR113-009"	8	100332552	Unreliable
+	"2017"	"2017"	"Non-Injury: Septicemia"	"GR113-010"	228	100332552	0.2
+	"2017"	"2017"	"Non-Injury: Viral hepatitis"	"GR113-015"	2	100332552	Unreliable
+	"2017"	"2017"	"Non-Injury: Human immunodeficiency virus (HIV) disease"	"GR113-016"	69	100332552	0.1
+	"2017"	"2017"	"Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae"	"GR113-018"	206	100332552	0.2
+	"2017"	"2017"	"Non-Injury: Malignant neoplasms (Cancers)"	"GR113 020-043"	2554	100332552	2.5
+	"2017"	"2017"	"Non-Injury: In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior"	"GR113-044"	186	100332552	0.2
+	"2017"	"2017"	"Non-Injury: Anemias"	"GR113-045"	117	100332552	0.1
+	"2017"	"2017"	"Non-Injury: Diabetes mellitus"	"GR113-046"	288	100332552	0.3
+	"2017"	"2017"	"Non-Injury: Nutritional Deficiencies"	"GR113 048-049"	9	100332552	Unreliable
+	"2017"	"2017"	"Non-Injury: Meningitis"	"GR113-050"	44	100332552	0.0
+	"2017"	"2017"	"Non-Injury: Parkinsons disease"	"GR113-051"	1	100332552	Unreliable
+	"2017"	"2017"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	1219	100332552	1.2
+	"2017"	"2017"	"Non-Injury: Essential (primary) hypertension and hypertensive renal disease"	"GR113-069"	12	100332552	Unreliable
+	"2017"	"2017"	"Non-Injury: Cerebrovascular diseases, including stroke"	"GR113-070"	318	100332552	0.3
+	"2017"	"2017"	"Non-Injury: Atherosclerosis"	"GR113-071"	3	100332552	Unreliable
+	"2017"	"2017"	"Non-Injury: Other diseases of the circulatory system"	"GR113 073-074"	57	100332552	0.1
+	"2017"	"2017"	"Non-Injury: Other disorders of circulatory system"	"GR113-075"	59	100332552	0.1
+	"2017"	"2017"	"Non-Injury: Influenza & Pneumonia"	"GR113 077-078"	407	100332552	0.4
+	"2017"	"2017"	"Non-Injury: Other acute lower respiratory infections"	"GR113 079"	28	100332552	0.0
+	"2017"	"2017"	"Non-Injury: Chronic lower respiratory diseases"	"GR113 082"	353	100332552	0.4
+	"2017"	"2017"	"Non-Injury: Pneumonitis due to solids and liquids"	"GR113-088"	60	100332552	0.1
+	"2017"	"2017"	"Non-Injury: Other diseases of respiratory system"	"GR113-089"	276	100332552	0.3
+	"2017"	"2017"	"Non-Injury: Peptic ulcer"	"GR113-090"	7	100332552	Unreliable
+	"2017"	"2017"	"Non-Injury: Diseases of appendix"	"GR113-091"	14	100332552	Unreliable
+	"2017"	"2017"	"Non-Injury: Hernia"	"GR113-092"	10	100332552	Unreliable
+	"2017"	"2017"	"Non-Injury: Chronic liver disease and cirrhosis"	"GR113 093"	26	100332552	0.0
+	"2017"	"2017"	"Non-Injury: Cholelithiasis and other disorders of gallbladder"	"GR113-096"	10	100332552	Unreliable
+	"2017"	"2017"	"Non-Injury: Nephritis, nephrotic syndrome and nephrosis"	"GR113 097"	69	100332552	0.1
+	"2017"	"2017"	"Non-Injury: Infections of kidney"	"GR113-102"	2	100332552	Unreliable
+	"2017"	"2017"	"Non-Injury: Pregnancy with abortive outcome"	"GR113-106"	4	100332552	Unreliable
+	"2017"	"2017"	"Non-Injury: Other complications of pregnancy, childbirth and the puerperium"	"GR113-107"	165	100332552	0.2
+	"2017"	"2017"	"Non-Injury: Certain conditions originating in the perinatal period"	"GR113-108"	81	100332552	0.1
+	"2017"	"2017"	"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities"	"GR113-109"	1158	100332552	1.2
+	"2017"	"2017"	"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"	"GR113-110"	883	100332552	0.9
+	"2017"	"2017"	"Non-Injury: All other diseases (Residual)"	"GR113-111"	3047	100332552	3.0
+	"2017"	"2017"	"Non-Injury: Complications of medical and surgical care"	"GR113-135"	101	100332552	0.1
+"Total"	"2017"	"2017"			41476	100332552	41.3
+	"2018"	"2018"	"Cut/Pierce"	"GRINJ-001"	328	100008036	0.3
+	"2018"	"2018"	"Drowning"	"GRINJ-002"	1200	100008036	1.2
+	"2018"	"2018"	"Fall"	"GRINJ-003"	416	100008036	0.4
+	"2018"	"2018"	"Fire/Flame"	"GRINJ-004"	414	100008036	0.4
+	"2018"	"2018"	"Hot object/Substance"	"GRINJ-005"	10	100008036	Unreliable
+	"2018"	"2018"	"Firearm"	"GRINJ-006"	7939	100008036	7.9
+	"2018"	"2018"	"Machinery"	"GRINJ-007"	57	100008036	0.1
+	"2018"	"2018"	"Motor Vehicle Traffic"	"GRINJ-008"	7301	100008036	7.3
+	"2018"	"2018"	"Other Pedal cyclist"	"GRINJ-009"	38	100008036	0.0
+	"2018"	"2018"	"Other Pedestrian"	"GRINJ-010"	189	100008036	0.2
+	"2018"	"2018"	"Other land transport"	"GRINJ-011"	277	100008036	0.3
+	"2018"	"2018"	"Other transport"	"GRINJ-012"	91	100008036	0.1
+	"2018"	"2018"	"Natural/Environmental"	"GRINJ-013"	115	100008036	0.1
+	"2018"	"2018"	"Poisoning"	"GRINJ-015"	5054	100008036	5.1
+	"2018"	"2018"	"Struck by or against"	"GRINJ-016"	92	100008036	0.1
+	"2018"	"2018"	"Suffocation"	"GRINJ-017"	3005	100008036	3.0
+	"2018"	"2018"	"Other specified, classifiable Injury"	"GRINJ-018"	317	100008036	0.3
+	"2018"	"2018"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	158	100008036	0.2
+	"2018"	"2018"	"Unspecified Injury"	"GRINJ-020"	437	100008036	0.4
+	"2018"	"2018"	"Non-Injury: Intestinal infections"	"GR113 001-003"	48	100008036	0.0
+	"2018"	"2018"	"Non-Injury: Tuberculosis"	"GR113 005-006"	12	100008036	Unreliable
+	"2018"	"2018"	"Non-Injury: Whooping cough"	"GR113-007"	1	100008036	Unreliable
+	"2018"	"2018"	"Non-Injury: Meningococcal infection"	"GR113-009"	1	100008036	Unreliable
+	"2018"	"2018"	"Non-Injury: Septicemia"	"GR113-010"	215	100008036	0.2
+	"2018"	"2018"	"Non-Injury: Syphilis"	"GR113-011"	2	100008036	Unreliable
+	"2018"	"2018"	"Non-Injury: Viral hepatitis"	"GR113-015"	3	100008036	Unreliable
+	"2018"	"2018"	"Non-Injury: Human immunodeficiency virus (HIV) disease"	"GR113-016"	63	100008036	0.1
+	"2018"	"2018"	"Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae"	"GR113-018"	250	100008036	0.2
+	"2018"	"2018"	"Non-Injury: Malignant neoplasms (Cancers)"	"GR113 020-043"	2540	100008036	2.5
+	"2018"	"2018"	"Non-Injury: In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior"	"GR113-044"	169	100008036	0.2
+	"2018"	"2018"	"Non-Injury: Anemias"	"GR113-045"	104	100008036	0.1
+	"2018"	"2018"	"Non-Injury: Diabetes mellitus"	"GR113-046"	282	100008036	0.3
+	"2018"	"2018"	"Non-Injury: Nutritional Deficiencies"	"GR113 048-049"	24	100008036	0.0
+	"2018"	"2018"	"Non-Injury: Meningitis"	"GR113-050"	35	100008036	0.0
+	"2018"	"2018"	"Non-Injury: Parkinsons disease"	"GR113-051"	4	100008036	Unreliable
+	"2018"	"2018"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	1189	100008036	1.2
+	"2018"	"2018"	"Non-Injury: Essential (primary) hypertension and hypertensive renal disease"	"GR113-069"	13	100008036	Unreliable
+	"2018"	"2018"	"Non-Injury: Cerebrovascular diseases, including stroke"	"GR113-070"	279	100008036	0.3
+	"2018"	"2018"	"Non-Injury: Atherosclerosis"	"GR113-071"	1	100008036	Unreliable
+	"2018"	"2018"	"Non-Injury: Other diseases of the circulatory system"	"GR113 073-074"	62	100008036	0.1
+	"2018"	"2018"	"Non-Injury: Other disorders of circulatory system"	"GR113-075"	60	100008036	0.1
+	"2018"	"2018"	"Non-Injury: Influenza & Pneumonia"	"GR113 077-078"	444	100008036	0.4
+	"2018"	"2018"	"Non-Injury: Other acute lower respiratory infections"	"GR113 079"	32	100008036	0.0
+	"2018"	"2018"	"Non-Injury: Chronic lower respiratory diseases"	"GR113 082"	347	100008036	0.3
+	"2018"	"2018"	"Non-Injury: Pneumonitis due to solids and liquids"	"GR113-088"	64	100008036	0.1
+	"2018"	"2018"	"Non-Injury: Other diseases of respiratory system"	"GR113-089"	321	100008036	0.3
+	"2018"	"2018"	"Non-Injury: Peptic ulcer"	"GR113-090"	9	100008036	Unreliable
+	"2018"	"2018"	"Non-Injury: Diseases of appendix"	"GR113-091"	17	100008036	Unreliable
+	"2018"	"2018"	"Non-Injury: Hernia"	"GR113-092"	7	100008036	Unreliable
+	"2018"	"2018"	"Non-Injury: Chronic liver disease and cirrhosis"	"GR113 093"	35	100008036	0.0
+	"2018"	"2018"	"Non-Injury: Cholelithiasis and other disorders of gallbladder"	"GR113-096"	10	100008036	Unreliable
+	"2018"	"2018"	"Non-Injury: Nephritis, nephrotic syndrome and nephrosis"	"GR113 097"	80	100008036	0.1
+	"2018"	"2018"	"Non-Injury: Infections of kidney"	"GR113-102"	6	100008036	Unreliable
+	"2018"	"2018"	"Non-Injury: Inflammatory diseases of female pelvic organs"	"GR113-104"	1	100008036	Unreliable
+	"2018"	"2018"	"Non-Injury: Pregnancy with abortive outcome"	"GR113-106"	3	100008036	Unreliable
+	"2018"	"2018"	"Non-Injury: Other complications of pregnancy, childbirth and the puerperium"	"GR113-107"	149	100008036	0.1
+	"2018"	"2018"	"Non-Injury: Certain conditions originating in the perinatal period"	"GR113-108"	105	100008036	0.1
+	"2018"	"2018"	"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities"	"GR113-109"	1111	100008036	1.1
+	"2018"	"2018"	"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"	"GR113-110"	893	100008036	0.9
+	"2018"	"2018"	"Non-Injury: All other diseases (Residual)"	"GR113-111"	2908	100008036	2.9
+	"2018"	"2018"	"Non-Injury: Complications of medical and surgical care"	"GR113-135"	97	100008036	0.1
+"Total"	"2018"	"2018"			39434	100008036	39.4
+	"2019"	"2019"	"Cut/Pierce"	"GRINJ-001"	306	99475304	0.3
+	"2019"	"2019"	"Drowning"	"GRINJ-002"	1157	99475304	1.2
+	"2019"	"2019"	"Fall"	"GRINJ-003"	448	99475304	0.5
+	"2019"	"2019"	"Fire/Flame"	"GRINJ-004"	332	99475304	0.3
+	"2019"	"2019"	"Hot object/Substance"	"GRINJ-005"	6	99475304	Unreliable
+	"2019"	"2019"	"Firearm"	"GRINJ-006"	7935	99475304	8.0
+	"2019"	"2019"	"Machinery"	"GRINJ-007"	41	99475304	0.0
+	"2019"	"2019"	"Motor Vehicle Traffic"	"GRINJ-008"	6908	99475304	6.9
+	"2019"	"2019"	"Other Pedal cyclist"	"GRINJ-009"	39	99475304	0.0
+	"2019"	"2019"	"Other Pedestrian"	"GRINJ-010"	193	99475304	0.2
+	"2019"	"2019"	"Other land transport"	"GRINJ-011"	309	99475304	0.3
+	"2019"	"2019"	"Other transport"	"GRINJ-012"	101	99475304	0.1
+	"2019"	"2019"	"Natural/Environmental"	"GRINJ-013"	132	99475304	0.1
+	"2019"	"2019"	"Overexertion"	"GRINJ-014"	1	99475304	Unreliable
+	"2019"	"2019"	"Poisoning"	"GRINJ-015"	5236	99475304	5.3
+	"2019"	"2019"	"Struck by or against"	"GRINJ-016"	90	99475304	0.1
+	"2019"	"2019"	"Suffocation"	"GRINJ-017"	2927	99475304	2.9
+	"2019"	"2019"	"Other specified, classifiable Injury"	"GRINJ-018"	328	99475304	0.3
+	"2019"	"2019"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	175	99475304	0.2
+	"2019"	"2019"	"Unspecified Injury"	"GRINJ-020"	332	99475304	0.3
+	"2019"	"2019"	"Non-Injury: Intestinal infections"	"GR113 001-003"	36	99475304	0.0
+	"2019"	"2019"	"Non-Injury: Tuberculosis"	"GR113 005-006"	8	99475304	Unreliable
+	"2019"	"2019"	"Non-Injury: Whooping cough"	"GR113-007"	2	99475304	Unreliable
+	"2019"	"2019"	"Non-Injury: Meningococcal infection"	"GR113-009"	8	99475304	Unreliable
+	"2019"	"2019"	"Non-Injury: Septicemia"	"GR113-010"	229	99475304	0.2
+	"2019"	"2019"	"Non-Injury: Viral hepatitis"	"GR113-015"	8	99475304	Unreliable
+	"2019"	"2019"	"Non-Injury: Human immunodeficiency virus (HIV) disease"	"GR113-016"	57	99475304	0.1
+	"2019"	"2019"	"Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae"	"GR113-018"	295	99475304	0.3
+	"2019"	"2019"	"Non-Injury: Malignant neoplasms (Cancers)"	"GR113 020-043"	2448	99475304	2.5
+	"2019"	"2019"	"Non-Injury: In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior"	"GR113-044"	181	99475304	0.2
+	"2019"	"2019"	"Non-Injury: Anemias"	"GR113-045"	107	99475304	0.1
+	"2019"	"2019"	"Non-Injury: Diabetes mellitus"	"GR113-046"	276	99475304	0.3
+	"2019"	"2019"	"Non-Injury: Nutritional Deficiencies"	"GR113 048-049"	17	99475304	Unreliable
+	"2019"	"2019"	"Non-Injury: Meningitis"	"GR113-050"	29	99475304	0.0
+	"2019"	"2019"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	1183	99475304	1.2
+	"2019"	"2019"	"Non-Injury: Essential (primary) hypertension and hypertensive renal disease"	"GR113-069"	20	99475304	0.0
+	"2019"	"2019"	"Non-Injury: Cerebrovascular diseases, including stroke"	"GR113-070"	295	99475304	0.3
+	"2019"	"2019"	"Non-Injury: Atherosclerosis"	"GR113-071"	3	99475304	Unreliable
+	"2019"	"2019"	"Non-Injury: Other diseases of the circulatory system"	"GR113 073-074"	58	99475304	0.1
+	"2019"	"2019"	"Non-Injury: Other disorders of circulatory system"	"GR113-075"	59	99475304	0.1
+	"2019"	"2019"	"Non-Injury: Influenza & Pneumonia"	"GR113 077-078"	420	99475304	0.4
+	"2019"	"2019"	"Non-Injury: Other acute lower respiratory infections"	"GR113 079"	26	99475304	0.0
+	"2019"	"2019"	"Non-Injury: Chronic lower respiratory diseases"	"GR113 082"	355	99475304	0.4
+	"2019"	"2019"	"Non-Injury: Pneumoconioses and chemical effects"	"GR113-087"	6	99475304	Unreliable
+	"2019"	"2019"	"Non-Injury: Pneumonitis due to solids and liquids"	"GR113-088"	47	99475304	0.0
+	"2019"	"2019"	"Non-Injury: Other diseases of respiratory system"	"GR113-089"	305	99475304	0.3
+	"2019"	"2019"	"Non-Injury: Peptic ulcer"	"GR113-090"	6	99475304	Unreliable
+	"2019"	"2019"	"Non-Injury: Diseases of appendix"	"GR113-091"	11	99475304	Unreliable
+	"2019"	"2019"	"Non-Injury: Hernia"	"GR113-092"	12	99475304	Unreliable
+	"2019"	"2019"	"Non-Injury: Chronic liver disease and cirrhosis"	"GR113 093"	36	99475304	0.0
+	"2019"	"2019"	"Non-Injury: Cholelithiasis and other disorders of gallbladder"	"GR113-096"	3	99475304	Unreliable
+	"2019"	"2019"	"Non-Injury: Nephritis, nephrotic syndrome and nephrosis"	"GR113 097"	85	99475304	0.1
+	"2019"	"2019"	"Non-Injury: Infections of kidney"	"GR113-102"	8	99475304	Unreliable
+	"2019"	"2019"	"Non-Injury: Inflammatory diseases of female pelvic organs"	"GR113-104"	1	99475304	Unreliable
+	"2019"	"2019"	"Non-Injury: Pregnancy with abortive outcome"	"GR113-106"	10	99475304	Unreliable
+	"2019"	"2019"	"Non-Injury: Other complications of pregnancy, childbirth and the puerperium"	"GR113-107"	142	99475304	0.1
+	"2019"	"2019"	"Non-Injury: Certain conditions originating in the perinatal period"	"GR113-108"	99	99475304	0.1
+	"2019"	"2019"	"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities"	"GR113-109"	1187	99475304	1.2
+	"2019"	"2019"	"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"	"GR113-110"	834	99475304	0.8
+	"2019"	"2019"	"Non-Injury: All other diseases (Residual)"	"GR113-111"	2919	99475304	2.9
+	"2019"	"2019"	"Non-Injury: Complications of medical and surgical care"	"GR113-135"	117	99475304	0.1
+"Total"	"2019"	"2019"			38944	99475304	39.1
+	"2020 "	"2020"	"Cut/Pierce"	"GRINJ-001"	374	99114100	0.4
+	"2020 "	"2020"	"Drowning"	"GRINJ-002"	1301	99114100	1.3
+	"2020 "	"2020"	"Fall"	"GRINJ-003"	381	99114100	0.4
+	"2020 "	"2020"	"Fire/Flame"	"GRINJ-004"	340	99114100	0.3
+	"2020 "	"2020"	"Hot object/Substance"	"GRINJ-005"	5	99114100	Unreliable
+	"2020 "	"2020"	"Firearm"	"GRINJ-006"	10186	99114100	10.3
+	"2020 "	"2020"	"Machinery"	"GRINJ-007"	36	99114100	0.0
+	"2020 "	"2020"	"Motor Vehicle Traffic"	"GRINJ-008"	7820	99114100	7.9
+	"2020 "	"2020"	"Other Pedal cyclist"	"GRINJ-009"	40	99114100	0.0
+	"2020 "	"2020"	"Other Pedestrian"	"GRINJ-010"	157	99114100	0.2
+	"2020 "	"2020"	"Other land transport"	"GRINJ-011"	359	99114100	0.4
+	"2020 "	"2020"	"Other transport"	"GRINJ-012"	128	99114100	0.1
+	"2020 "	"2020"	"Natural/Environmental"	"GRINJ-013"	134	99114100	0.1
+	"2020 "	"2020"	"Overexertion"	"GRINJ-014"	1	99114100	Unreliable
+	"2020 "	"2020"	"Poisoning"	"GRINJ-015"	7594	99114100	7.7
+	"2020 "	"2020"	"Struck by or against"	"GRINJ-016"	111	99114100	0.1
+	"2020 "	"2020"	"Suffocation"	"GRINJ-017"	2640	99114100	2.7
+	"2020 "	"2020"	"Other specified, classifiable Injury"	"GRINJ-018"	322	99114100	0.3
+	"2020 "	"2020"	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	165	99114100	0.2
+	"2020 "	"2020"	"Unspecified Injury"	"GRINJ-020"	392	99114100	0.4
+	"2020 "	"2020"	"Non-Injury: Intestinal infections"	"GR113 001-003"	32	99114100	0.0
+	"2020 "	"2020"	"Non-Injury: Tuberculosis"	"GR113 005-006"	8	99114100	Unreliable
+	"2020 "	"2020"	"Non-Injury: Meningococcal infection"	"GR113-009"	5	99114100	Unreliable
+	"2020 "	"2020"	"Non-Injury: Septicemia"	"GR113-010"	184	99114100	0.2
+	"2020 "	"2020"	"Non-Injury: Viral hepatitis"	"GR113-015"	10	99114100	Unreliable
+	"2020 "	"2020"	"Non-Injury: Human immunodeficiency virus (HIV) disease"	"GR113-016"	53	99114100	0.1
+	"2020 "	"2020"	"Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae"	"GR113-018"	799	99114100	0.8
+	"2020 "	"2020"	"Non-Injury: Malignant neoplasms (Cancers)"	"GR113 020-043"	2405	99114100	2.4
+	"2020 "	"2020"	"Non-Injury: In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior"	"GR113-044"	155	99114100	0.2
+	"2020 "	"2020"	"Non-Injury: Anemias"	"GR113-045"	90	99114100	0.1
+	"2020 "	"2020"	"Non-Injury: Diabetes mellitus"	"GR113-046"	373	99114100	0.4
+	"2020 "	"2020"	"Non-Injury: Nutritional Deficiencies"	"GR113 048-049"	22	99114100	0.0
+	"2020 "	"2020"	"Non-Injury: Meningitis"	"GR113-050"	35	99114100	0.0
+	"2020 "	"2020"	"Non-Injury: Parkinsons disease"	"GR113-051"	1	99114100	Unreliable
+	"2020 "	"2020"	"Non-Injury: Diseases of Heart"	"GR113 055-068"	1149	99114100	1.2
+	"2020 "	"2020"	"Non-Injury: Essential (primary) hypertension and hypertensive renal disease"	"GR113-069"	24	99114100	0.0
+	"2020 "	"2020"	"Non-Injury: Cerebrovascular diseases, including stroke"	"GR113-070"	319	99114100	0.3
+	"2020 "	"2020"	"Non-Injury: Atherosclerosis"	"GR113-071"	3	99114100	Unreliable
+	"2020 "	"2020"	"Non-Injury: Other diseases of the circulatory system"	"GR113 073-074"	63	99114100	0.1
+	"2020 "	"2020"	"Non-Injury: Other disorders of circulatory system"	"GR113-075"	83	99114100	0.1
+	"2020 "	"2020"	"Non-Injury: Influenza & Pneumonia"	"GR113 077-078"	374	99114100	0.4
+	"2020 "	"2020"	"Non-Injury: Other acute lower respiratory infections"	"GR113 079"	24	99114100	0.0
+	"2020 "	"2020"	"Non-Injury: Chronic lower respiratory diseases"	"GR113 082"	386	99114100	0.4
+	"2020 "	"2020"	"Non-Injury: Pneumoconioses and chemical effects"	"GR113-087"	4	99114100	Unreliable
+	"2020 "	"2020"	"Non-Injury: Pneumonitis due to solids and liquids"	"GR113-088"	56	99114100	0.1
+	"2020 "	"2020"	"Non-Injury: Other diseases of respiratory system"	"GR113-089"	275	99114100	0.3
+	"2020 "	"2020"	"Non-Injury: Peptic ulcer"	"GR113-090"	6	99114100	Unreliable
+	"2020 "	"2020"	"Non-Injury: Diseases of appendix"	"GR113-091"	12	99114100	Unreliable
+	"2020 "	"2020"	"Non-Injury: Hernia"	"GR113-092"	14	99114100	Unreliable
+	"2020 "	"2020"	"Non-Injury: Chronic liver disease and cirrhosis"	"GR113 093"	51	99114100	0.1
+	"2020 "	"2020"	"Non-Injury: Cholelithiasis and other disorders of gallbladder"	"GR113-096"	7	99114100	Unreliable
+	"2020 "	"2020"	"Non-Injury: Nephritis, nephrotic syndrome and nephrosis"	"GR113 097"	90	99114100	0.1
+	"2020 "	"2020"	"Non-Injury: Infections of kidney"	"GR113-102"	4	99114100	Unreliable
+	"2020 "	"2020"	"Non-Injury: Inflammatory diseases of female pelvic organs"	"GR113-104"	3	99114100	Unreliable
+	"2020 "	"2020"	"Non-Injury: Pregnancy with abortive outcome"	"GR113-106"	9	99114100	Unreliable
+	"2020 "	"2020"	"Non-Injury: Other complications of pregnancy, childbirth and the puerperium"	"GR113-107"	184	99114100	0.2
+	"2020 "	"2020"	"Non-Injury: Certain conditions originating in the perinatal period"	"GR113-108"	94	99114100	0.1
+	"2020 "	"2020"	"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities"	"GR113-109"	1087	99114100	1.1
+	"2020 "	"2020"	"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"	"GR113-110"	948	99114100	1.0
+	"2020 "	"2020"	"Non-Injury: All other diseases (Residual)"	"GR113-111"	2945	99114100	3.0
+	"2020 "	"2020"	"Non-Injury: Complications of medical and surgical care"	"GR113-135"	96	99114100	0.1
+"Total"	"2020 "	"2020"			44968	99114100	45.4
+"Total"					926061	2185588402	42.4
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Ten-Year Age Groups: 1-4 years; 5-14 years; 15-24 years"
+"Group By: Year; Injury Mechanism & All Other Leading Causes"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: May 27, 2022 5:22:03 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on May 27, 2022 5:22:03 PM"
+"---"
+Messages:
+"1. Rows with zero Deaths are hidden, but the Population values in those rows are included in the totals. Use Quick Options above"
+"to show zero rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/ucd.html#Georgia-Reporting-Anomalies."
+"3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#New-Jersey-Reporting-Anomalies."
+"4. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#California-Reporting-Anomalies."
+"5. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"6. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"7. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
