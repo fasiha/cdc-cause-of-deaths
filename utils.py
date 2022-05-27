@@ -5,8 +5,8 @@ from pylab import plt
 
 
 def make_accessible(ax):
-    lws = [3, 2, 1]
-    markers = ['o', 'x', 'v']
+    lws = [3, 1]
+    markers = ['o', 'x', 'v', 'd']
     for l, (marker, lw) in zip(ax.lines, product(markers, lws)):
         l.set_marker(marker)
         l.set_lw(lw)
