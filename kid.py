@@ -34,8 +34,19 @@ pdf = df.pivot(index="Year", columns=CAUSE, values="Crude Rate")
 pdf.loc[:, topcauses]
 
 subpdf = pdf.loc[:, topcauses].astype(float)
-subpdf.plot()
+
+ax = subpdf.plot(figsize=(12, 8))
 plt.ylabel('Deaths per 100,000')
 plt.title('Underlying cause of death, ages 1-24 (US CDC)')
+plt.tight_layout()
+lw = [3, 2, 1]
+markers = ['.', 'o', 'x', '+']
+ls = ['-', '--']
+for i, l in enumerate(ax.lines):
+    l.set_marker(markers[i % len(markers)])
+    l.set_ls(ls[i % len(ls)])
+    l.set_lw(lw[i % len(lw)])
+plt.legend()
+
 plt.savefig('injury-mechanism-top-7-1-24.png', dpi=300)
 plt.savefig('injury-mechanism-top-7-1-24.svg')
