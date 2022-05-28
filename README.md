@@ -53,3 +53,12 @@ Firearm deaths is the next very worrying cause of death. It slowly descended fro
 The other worrying trend is #3, poisoning, which was one of the lowest lines in the chart in 1999 but has steadily increased from ~4 to 17 in 2020, beating motor vehicle deaths in 2020.
 
 The other four lines ("all other diseases", cancer, suffocation, and heart disease") are all between 2~5 deaths per 100,000.
+
+## Firearms: injury intent (homicide, suicide, etc)
+![Firearms](./injury-intent-guns.svg)
+
+> CDC link for data: https://wonder.cdc.gov/controller/saved/D76/D292F612
+
+The firearms line of the first chart broken down into all the injury intents. Roughly twice as many homicides as suicides over much of the data horizon, but worryingly suicides bottomed in 2007 at 2 deaths per 100,000 and have steadily increased to 3.5 in 2020. Meanwhile, homicides bottomed much later, in 2014, at less than 4 deaths per 100,000 and in 2020 were ~6.5.
+
+Meanwhile unintentional firearm deaths are quite rare (less than 0.3 deaths per 100,000).

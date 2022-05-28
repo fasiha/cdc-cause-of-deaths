@@ -1,0 +1,197 @@
+"Notes"	"Year"	"Year Code"	"Injury Intent"	"Injury Intent Code"	Deaths	Population	Crude Rate
+	"1999"	"1999"	"Unintentional"	"1"	339	94835637	0.4
+	"1999"	"1999"	"Suicide"	"2"	2418	94835637	2.5
+	"1999"	"1999"	"Homicide"	"3"	4312	94835637	4.5
+	"1999"	"1999"	"Undetermined "	"4"	142	94835637	0.1
+	"1999"	"1999"	"Legal Intervention / Operations of War"	"5"	65	94835637	0.1
+"Total"	"1999"	"1999"			7276	94835637	7.7
+	"2000"	"2000"	"Unintentional"	"1"	287	95631618	0.3
+	"2000"	"2000"	"Suicide"	"2"	2377	95631618	2.5
+	"2000"	"2000"	"Homicide"	"3"	4178	95631618	4.4
+	"2000"	"2000"	"Undetermined "	"4"	81	95631618	0.1
+	"2000"	"2000"	"Legal Intervention / Operations of War"	"5"	75	95631618	0.1
+"Total"	"2000"	"2000"			6998	95631618	7.3
+	"2001"	"2001"	"Unintentional"	"1"	278	96651169	0.3
+	"2001"	"2001"	"Suicide"	"2"	2220	96651169	2.3
+	"2001"	"2001"	"Homicide"	"3"	4435	96651169	4.6
+	"2001"	"2001"	"Undetermined "	"4"	70	96651169	0.1
+	"2001"	"2001"	"Legal Intervention / Operations of War"	"5"	87	96651169	0.1
+"Total"	"2001"	"2001"			7090	96651169	7.3
+	"2002"	"2002"	"Unintentional"	"1"	269	97465704	0.3
+	"2002"	"2002"	"Suicide"	"2"	2174	97465704	2.2
+	"2002"	"2002"	"Homicide"	"3"	4571	97465704	4.7
+	"2002"	"2002"	"Undetermined "	"4"	86	97465704	0.1
+	"2002"	"2002"	"Legal Intervention / Operations of War"	"5"	89	97465704	0.1
+"Total"	"2002"	"2002"			7189	97465704	7.4
+	"2003"	"2003"	"Unintentional"	"1"	256	98041633	0.3
+	"2003"	"2003"	"Suicide"	"2"	2149	98041633	2.2
+	"2003"	"2003"	"Homicide"	"3"	4637	98041633	4.7
+	"2003"	"2003"	"Undetermined "	"4"	82	98041633	0.1
+	"2003"	"2003"	"Legal Intervention / Operations of War"	"5"	94	98041633	0.1
+"Total"	"2003"	"2003"			7218	98041633	7.4
+	"2004"	"2004"	"Unintentional"	"1"	234	98585656	0.2
+	"2004"	"2004"	"Suicide"	"2"	2163	98585656	2.2
+	"2004"	"2004"	"Homicide"	"3"	4347	98585656	4.4
+	"2004"	"2004"	"Undetermined "	"4"	68	98585656	0.1
+	"2004"	"2004"	"Legal Intervention / Operations of War"	"5"	79	98585656	0.1
+"Total"	"2004"	"2004"			6891	98585656	7.0
+	"2005"	"2005"	"Unintentional"	"1"	277	98960822	0.3
+	"2005"	"2005"	"Suicide"	"2"	2046	98960822	2.1
+	"2005"	"2005"	"Homicide"	"3"	4723	98960822	4.8
+	"2005"	"2005"	"Undetermined "	"4"	92	98960822	0.1
+	"2005"	"2005"	"Legal Intervention / Operations of War"	"5"	80	98960822	0.1
+"Total"	"2005"	"2005"			7218	98960822	7.3
+	"2006"	"2006"	"Unintentional"	"1"	247	99318815	0.2
+	"2006"	"2006"	"Suicide"	"2"	2040	99318815	2.1
+	"2006"	"2006"	"Homicide"	"3"	5106	99318815	5.1
+	"2006"	"2006"	"Undetermined "	"4"	83	99318815	0.1
+	"2006"	"2006"	"Legal Intervention / Operations of War"	"5"	82	99318815	0.1
+"Total"	"2006"	"2006"			7558	99318815	7.6
+	"2007"	"2007"	"Unintentional"	"1"	219	99679433	0.2
+	"2007"	"2007"	"Suicide"	"2"	1953	99679433	2.0
+	"2007"	"2007"	"Homicide"	"3"	4918	99679433	4.9
+	"2007"	"2007"	"Undetermined "	"4"	97	99679433	0.1
+	"2007"	"2007"	"Legal Intervention / Operations of War"	"5"	97	99679433	0.1
+"Total"	"2007"	"2007"			7284	99679433	7.3
+	"2008"	"2008"	"Unintentional"	"1"	194	100166141	0.2
+	"2008"	"2008"	"Suicide"	"2"	2059	100166141	2.1
+	"2008"	"2008"	"Homicide"	"3"	4637	100166141	4.6
+	"2008"	"2008"	"Undetermined "	"4"	82	100166141	0.1
+	"2008"	"2008"	"Legal Intervention / Operations of War"	"5"	80	100166141	0.1
+"Total"	"2008"	"2008"			7052	100166141	7.0
+	"2009"	"2009"	"Unintentional"	"1"	179	100660926	0.2
+	"2009"	"2009"	"Suicide"	"2"	2066	100660926	2.1
+	"2009"	"2009"	"Homicide"	"3"	4274	100660926	4.2
+	"2009"	"2009"	"Undetermined "	"4"	49	100660926	0.0
+	"2009"	"2009"	"Legal Intervention / Operations of War"	"5"	69	100660926	0.1
+"Total"	"2009"	"2009"			6637	100660926	6.6
+	"2010"	"2010"	"Unintentional"	"1"	207	100909402	0.2
+	"2010"	"2010"	"Suicide"	"2"	2127	100909402	2.1
+	"2010"	"2010"	"Homicide"	"3"	4097	100909402	4.1
+	"2010"	"2010"	"Undetermined "	"4"	70	100909402	0.1
+	"2010"	"2010"	"Legal Intervention / Operations of War"	"5"	69	100909402	0.1
+"Total"	"2010"	"2010"			6570	100909402	6.5
+	"2011"	"2011"	"Unintentional"	"1"	200	101002444	0.2
+	"2011"	"2011"	"Suicide"	"2"	2260	101002444	2.2
+	"2011"	"2011"	"Homicide"	"3"	4035	101002444	4.0
+	"2011"	"2011"	"Undetermined "	"4"	75	101002444	0.1
+	"2011"	"2011"	"Legal Intervention / Operations of War"	"5"	101	101002444	0.1
+"Total"	"2011"	"2011"			6671	101002444	6.6
+	"2012"	"2012"	"Unintentional"	"1"	171	101144926	0.2
+	"2012"	"2012"	"Suicide"	"2"	2323	101144926	2.3
+	"2012"	"2012"	"Homicide"	"3"	4167	101144926	4.1
+	"2012"	"2012"	"Undetermined "	"4"	73	101144926	0.1
+	"2012"	"2012"	"Legal Intervention / Operations of War"	"5"	117	101144926	0.1
+"Total"	"2012"	"2012"			6851	101144926	6.8
+	"2013"	"2013"	"Unintentional"	"1"	173	101101742	0.2
+	"2013"	"2013"	"Suicide"	"2"	2348	101101742	2.3
+	"2013"	"2013"	"Homicide"	"3"	3885	101101742	3.8
+	"2013"	"2013"	"Undetermined "	"4"	72	101101742	0.1
+	"2013"	"2013"	"Legal Intervention / Operations of War"	"5"	97	101101742	0.1
+"Total"	"2013"	"2013"			6575	101101742	6.5
+	"2014"	"2014"	"Unintentional"	"1"	157	101099426	0.2
+	"2014"	"2014"	"Suicide"	"2"	2454	101099426	2.4
+	"2014"	"2014"	"Homicide"	"3"	3834	101099426	3.8
+	"2014"	"2014"	"Undetermined "	"4"	67	101099426	0.1
+	"2014"	"2014"	"Legal Intervention / Operations of War"	"5"	80	101099426	0.1
+"Total"	"2014"	"2014"			6592	101099426	6.5
+	"2015"	"2015"	"Unintentional"	"1"	168	100886965	0.2
+	"2015"	"2015"	"Suicide"	"2"	2601	100886965	2.6
+	"2015"	"2015"	"Homicide"	"3"	4380	100886965	4.3
+	"2015"	"2015"	"Undetermined "	"4"	84	100886965	0.1
+	"2015"	"2015"	"Legal Intervention / Operations of War"	"5"	84	100886965	0.1
+"Total"	"2015"	"2015"			7317	100886965	7.3
+	"2016"	"2016"	"Unintentional"	"1"	194	100515951	0.2
+	"2016"	"2016"	"Suicide"	"2"	2843	100515951	2.8
+	"2016"	"2016"	"Homicide"	"3"	4780	100515951	4.8
+	"2016"	"2016"	"Undetermined "	"4"	86	100515951	0.1
+	"2016"	"2016"	"Legal Intervention / Operations of War"	"5"	78	100515951	0.1
+"Total"	"2016"	"2016"			7981	100515951	7.9
+	"2017"	"2017"	"Unintentional"	"1"	178	100332552	0.2
+	"2017"	"2017"	"Suicide"	"2"	3145	100332552	3.1
+	"2017"	"2017"	"Homicide"	"3"	4639	100332552	4.6
+	"2017"	"2017"	"Undetermined "	"4"	120	100332552	0.1
+	"2017"	"2017"	"Legal Intervention / Operations of War"	"5"	92	100332552	0.1
+"Total"	"2017"	"2017"			8174	100332552	8.1
+	"2018"	"2018"	"Unintentional"	"1"	183	100008036	0.2
+	"2018"	"2018"	"Suicide"	"2"	3198	100008036	3.2
+	"2018"	"2018"	"Homicide"	"3"	4352	100008036	4.4
+	"2018"	"2018"	"Undetermined "	"4"	119	100008036	0.1
+	"2018"	"2018"	"Legal Intervention / Operations of War"	"5"	87	100008036	0.1
+"Total"	"2018"	"2018"			7939	100008036	7.9
+	"2019"	"2019"	"Unintentional"	"1"	177	99475304	0.2
+	"2019"	"2019"	"Suicide"	"2"	2972	99475304	3.0
+	"2019"	"2019"	"Homicide"	"3"	4598	99475304	4.6
+	"2019"	"2019"	"Undetermined "	"4"	118	99475304	0.1
+	"2019"	"2019"	"Legal Intervention / Operations of War"	"5"	70	99475304	0.1
+"Total"	"2019"	"2019"			7935	99475304	8.0
+	"2020 "	"2020"	"Unintentional"	"1"	221	99114100	0.2
+	"2020 "	"2020"	"Suicide"	"2"	3397	99114100	3.4
+	"2020 "	"2020"	"Homicide"	"3"	6350	99114100	6.4
+	"2020 "	"2020"	"Undetermined "	"4"	143	99114100	0.1
+	"2020 "	"2020"	"Legal Intervention / Operations of War"	"5"	75	99114100	0.1
+"Total"	"2020 "	"2020"			10186	99114100	10.3
+"Total"					161202	2185588402	7.4
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Injury Mechanism & All Other Leading Causes: Firearm"
+"Ten-Year Age Groups: 1-4 years; 5-14 years; 15-24 years"
+"Group By: Year; Injury Intent"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: May 27, 2022 9:03:49 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on May 27, 2022 9:03:49 PM"
+"---"
+Messages:
+"1. Rows with zero Deaths are hidden, but the Population values in those rows are included in the totals. Use Quick Options above"
+"to show zero rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/ucd.html#Georgia-Reporting-Anomalies."
+"3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#New-Jersey-Reporting-Anomalies."
+"4. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#California-Reporting-Anomalies."
+"5. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"6. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"7. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
