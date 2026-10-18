@@ -42,6 +42,7 @@ for age in ages:
     ax = subpdf.plot(figsize=(12, 8))
     plt.title(age)
     plt.ylabel('Deaths per 100,000')
+    plt.ylim(bottom=0)
     plt.title(f'Underlying cause of death, ages {age} (US CDC)')
     plt.tight_layout()
     make_accessible(ax)

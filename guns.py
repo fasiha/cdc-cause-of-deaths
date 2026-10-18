@@ -24,6 +24,7 @@ subpdf = pdf.loc[:, pdf.columns[[-1, 0, 2, 4, 1, 3]]].astype(float)
 
 ax = subpdf.plot(figsize=(12, 8))
 plt.ylabel('Deaths per 100,000')
+plt.ylim(bottom=0)
 plt.title('Death injury intent: firearms, ages 1-24 (US CDC)')
 plt.tight_layout()
 make_accessible(ax)

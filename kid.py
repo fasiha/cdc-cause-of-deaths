@@ -48,6 +48,7 @@ subpdf = pdf.loc[:, topcauses].astype(float)
 
 ax = subpdf.plot(figsize=(12, 8))
 plt.ylabel('Deaths per 100,000')
+plt.ylim(bottom=0)
 plt.title('Underlying cause of death, ages 1-24 (US CDC)')
 plt.tight_layout()
 make_accessible(ax)
