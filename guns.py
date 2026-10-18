@@ -9,7 +9,15 @@ plt.style.use('ggplot')
 plt.ion()
 
 INTENT = 'Injury Intent'
-df = read_cdc_txt("Underlying Cause of Death, 1999-2020-guns.txt")
+# 1999-2017 from the old database, 2018-2024 from the new single-race one:
+# https://wonder.cdc.gov/controller/saved/D158/D525F243
+old = read_cdc_txt("Underlying Cause of Death, 1999-2020-guns.txt")
+new = read_cdc_txt("Underlying Cause of Death, 2018-2024-guns.txt")
+df = pd.concat([old, new], ignore_index=True)
+# some exports have trailing spaces in Year and Injury Intent
+df["Year"] = df["Year"].astype(str).str.strip().astype(int)
+df[INTENT] = df[INTENT].str.strip()
+df = df[(df["Year"] < 2018) | df.index.isin(new.index + len(old))]
 pdf = df.pivot(index="Year", columns=INTENT, values="Crude Rate")
 pdf['Total'] = pdf.sum(axis=1)
 subpdf = pdf.loc[:, pdf.columns[[-1, 0, 2, 4, 1, 3]]].astype(float)

@@ -19,8 +19,16 @@ plt.ion()
 CAUSE = 'Injury Mechanism & All Other Leading Causes'
 AGEGROUP = "Ten-Year Age Groups"
 
-bigdf = read_cdc_txt(
+# 1999-2017 from the old (bridged-race) database, 2018-2024 from the new
+# single-race database: https://wonder.cdc.gov/controller/saved/D158/D525F242
+old = read_cdc_txt(
     "Underlying Cause of Death, 1999-2020-year-agegroup-injurymechanism.txt")
+new = read_cdc_txt(
+    "Underlying Cause of Death, 2018-2024-year-agegroup-injurymechanism.txt")
+old = old[old["Year"].astype(int) < 2018]
+bigdf = pd.concat([old, new], ignore_index=True)
+bigdf["Crude Rate"] = pd.to_numeric(bigdf["Crude Rate"], errors="coerce")
+bigdf = bigdf[bigdf[AGEGROUP].isin(["1-4 years", "5-14 years", "15-24 years"])]
 ages = bigdf[AGEGROUP].unique()
 
 for age in ages:

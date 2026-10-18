@@ -1,0 +1,108 @@
+"Notes"	"Year"	"Year Code"	"Injury Intent"	"Injury Intent Code"	Deaths	Population	Crude Rate	Crude Rate Lower 95% Confidence Interval	Crude Rate Upper 95% Confidence Interval
+	"2018"	"2018"	"Unintentional"	"1"	183	100008036	0.2	0.2	0.2
+	"2018"	"2018"	"Suicide"	"2"	3198	100008036	3.2	3.1	3.3
+	"2018"	"2018"	"Homicide"	"3"	4352	100008036	4.4	4.2	4.5
+	"2018"	"2018"	"Undetermined "	"4"	119	100008036	0.1	0.1	0.1
+	"2018"	"2018"	"Legal Intervention / Operations of War"	"5"	87	100008036	0.1	0.1	0.1
+"Total"	"2018"	"2018"			7939	100008036	7.9	7.8	8.1
+	"2019"	"2019"	"Unintentional"	"1"	177	99475304	0.2	0.2	0.2
+	"2019"	"2019"	"Suicide"	"2"	2972	99475304	3.0	2.9	3.1
+	"2019"	"2019"	"Homicide"	"3"	4598	99475304	4.6	4.5	4.8
+	"2019"	"2019"	"Undetermined "	"4"	118	99475304	0.1	0.1	0.1
+	"2019"	"2019"	"Legal Intervention / Operations of War"	"5"	70	99475304	0.1	0.1	0.1
+"Total"	"2019"	"2019"			7935	99475304	8.0	7.8	8.2
+	"2020"	"2020"	"Unintentional"	"1"	221	99114100	0.2	0.2	0.3
+	"2020"	"2020"	"Suicide"	"2"	3397	99114100	3.4	3.3	3.5
+	"2020"	"2020"	"Homicide"	"3"	6350	99114100	6.4	6.2	6.6
+	"2020"	"2020"	"Undetermined "	"4"	143	99114100	0.1	0.1	0.2
+	"2020"	"2020"	"Legal Intervention / Operations of War"	"5"	75	99114100	0.1	0.1	0.1
+"Total"	"2020"	"2020"			10186	99114100	10.3	10.1	10.5
+	"2021"	"2021"	"Unintentional"	"1"	229	100090840	0.2	0.2	0.3
+	"2021"	"2021"	"Suicide"	"2"	3826	100090840	3.8	3.7	3.9
+	"2021"	"2021"	"Homicide"	"3"	6638	100090840	6.6	6.5	6.8
+	"2021"	"2021"	"Undetermined "	"4"	173	100090840	0.2	0.1	0.2
+	"2021"	"2021"	"Legal Intervention / Operations of War"	"5"	72	100090840	0.1	0.1	0.1
+"Total"	"2021"	"2021"			10938	100090840	10.9	10.7	11.1
+	"2022"	"2022"	"Unintentional"	"1"	204	100095845	0.2	0.2	0.2
+	"2022"	"2022"	"Suicide"	"2"	3426	100095845	3.4	3.3	3.5
+	"2022"	"2022"	"Homicide"	"3"	6286	100095845	6.3	6.1	6.4
+	"2022"	"2022"	"Undetermined "	"4"	135	100095845	0.1	0.1	0.2
+	"2022"	"2022"	"Legal Intervention / Operations of War"	"5"	80	100095845	0.1	0.1	0.1
+"Total"	"2022"	"2022"			10131	100095845	10.1	9.9	10.3
+	"2023"	"2023"	"Unintentional"	"1"	205	99736479	0.2	0.2	0.2
+	"2023"	"2023"	"Suicide"	"2"	3461	99736479	3.5	3.4	3.6
+	"2023"	"2023"	"Homicide"	"3"	5755	99736479	5.8	5.6	5.9
+	"2023"	"2023"	"Undetermined "	"4"	157	99736479	0.2	0.1	0.2
+	"2023"	"2023"	"Legal Intervention / Operations of War"	"5"	91	99736479	0.1	0.1	0.1
+"Total"	"2023"	"2023"			9669	99736479	9.7	9.5	9.9
+	"2024 "	"2024"	"Unintentional"	"1"	190	100880303	0.2	0.2	0.2
+	"2024 "	"2024"	"Suicide"	"2"	3468	100880303	3.4	3.3	3.6
+	"2024 "	"2024"	"Homicide"	"3"	4746	100880303	4.7	4.6	4.8
+	"2024 "	"2024"	"Undetermined "	"4"	135	100880303	0.1	0.1	0.2
+	"2024 "	"2024"	"Legal Intervention / Operations of War"	"5"	64	100880303	0.1	0.0	0.1
+"Total"	"2024 "	"2024"			8603	100880303	8.5	8.3	8.7
+"Total"					65401	699400907	9.4	9.3	9.4
+"---"
+"Dataset: Underlying Cause of Death, 2018-2024, Single Race"
+"Query Parameters:"
+"Injury Mechanism & All Other Leading Causes: Firearm"
+"Ten-Year Age Groups: 1-4 years; 5-14 years; 15-24 years"
+"Group By: Year; Injury Intent"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd-expanded.html for more information."
+"---"
+"Query Date: Oct 18, 2026 5:40:14 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 2018-2024 on CDC WONDER Online Database, released in 2026. Data are from the Multiple Cause of Death Files,"
+"2018-2024, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10-expanded.html on Oct 18, 2026 5:40:14 PM"
+"---"
+Messages:
+"1. Rows with zero Deaths are hidden, but the Population values in those rows are included in the totals. Use Quick Options above"
+"to show zero rows."
+"---"
+Caveats:
+"1. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Not Stated."
+"2. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Confidence-Intervals."
+"3. The population figures for year 2024 are single-race estimates of the July 1 resident population, from the Vintage 2024"
+"postcensal series released by the Census Bureau on June 27, 2024. The 2024 series is based on the Modified Blended Base produced"
+"by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The Modified Blended Base consists of the blend"
+"of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020 Census data"
+"from the internal Census Edited File (CEF). The population figures for year 2023 are single-race estimates of the July 1"
+"resident population, from the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. The 2023 series is"
+"based on the Modified Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The"
+"Modified Blended Base consists of the blend of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic"
+"Analysis Estimates, and 2020 Census data from the internal Census Edited File (CEF). The population figures for years 2022 are"
+"single-race estimates of the July 1 resident population, from the Vintage 2022 postcensal series released by the Census Bureau"
+"on June 22, 2023. The 2022 series is based on the Modified Blended Base produced by the US Census Bureau in lieu of the April 1,"
+"2020 decennial population count. The Modified Blended Base consists of the blend of Vintage 2020 postcensal population estimates"
+"for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020 Census data from the internal Census Edited File (CEF). The"
+"population figures for years 2021 are single-race estimates of the July 1 resident population, based on the Blended Base"
+"produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count, from the Vintage 2021 postcensal"
+"series released by the Census Bureau on June 30, 2022. The population figures for year 2020 are single-race estimates of the"
+"July 1 resident population, from the Vintage 2020 postcensal series based on April 2010 Census, released by the Census Bureau on"
+"July 27, 2021. The population figures for year 2019 are single-race estimates of the July 1 resident population, from the"
+"Vintage 2019 postcensal series based on April 2010 Census, released by the Census Bureau on June 25, 2020. The population"
+"figures for year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series based"
+"on April 2010 Census, released by the Census Bureau on June 20, 2019. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Population Data."
+"4. Connecticut population estimates for 2022 and later years are reported for 9 planning regions as county equivalent areas,"
+"instead of the former 8 legacy counties in the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023,"
+"and in the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. Populations estimates for the former"
+"counties are not available for 2022 and later years. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Connecticut-2022."
+"5. After the creation of the final 2023 dataset, North Carolina updated the cause of death information for over 900 death"
+"certificates to include a cause of death code indicating drug overdose (ICD-10 underlying cause-of-death codes: X40-X44,"
+"X60-X64, X85, and Y10-Y14). Jurisdictions can continue to update death certificates after the closing of the mortality file. As"
+"a result, users should consider that the actual death count for drug overdose deaths for North Carolina in 2023 is over 4,400"
+"deaths, with a crude rate of approximately 41.0 per 100,000 population, and an age-adjusted rate of approximately 42.1 per"
+"100,000 population. These deaths will not be updated on the final mortality datasets."
